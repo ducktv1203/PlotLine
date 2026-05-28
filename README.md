@@ -69,6 +69,47 @@ Frontend will be live at `http://localhost:5173`.
 
 ---
 
+## Usage
+
+### Ingest a track
+
+```bash
+# GeoJSON
+curl -X POST 'http://localhost:8000/api/v1/ingest/geojson?label=my-trip' \
+  -H 'Content-Type: application/json' \
+  -d @track.geojson
+
+# CSV (override column names if not "timestamp,lat,lon")
+curl -X POST 'http://localhost:8000/api/v1/ingest/csv?label=my-trip' \
+  -F 'file=@track.csv'
+```
+
+Or drag a `.geojson` file onto the map in the browser — same path.
+
+### Controls
+
+| Key      | Action                          |
+|----------|---------------------------------|
+| `d`      | Load the bundled demo track     |
+| `space`  | Play / pause the timeline       |
+| `[` / `]`| Step the playhead ±1 minute     |
+| `r`      | Reset the playhead to the start |
+
+Toggle the checkboxes in the top-left **TRACKS** panel to show multiple tracks at once. When two or more tracks are visible, space-time intersections (within 50m and 5min of each other by default) are highlighted as red markers.
+
+### REST surface
+
+| Method | Path                                                | Purpose                                              |
+|--------|-----------------------------------------------------|------------------------------------------------------|
+| POST   | `/api/v1/ingest/geojson`                            | Ingest a GeoJSON FeatureCollection                   |
+| POST   | `/api/v1/ingest/csv`                                | Ingest a CSV file with explicit column mapping       |
+| GET    | `/api/v1/tracks`                                    | List ingested tracks (id, label, source)             |
+| GET    | `/api/v1/tracks/{id}`                               | Fetch full track as a FeatureCollection              |
+| GET    | `/api/v1/tracks/{id}/window?start=&end=`            | Time-windowed slice of a track                       |
+| GET    | `/api/v1/spatial/intersections?track_ids=...&...`   | Space-time intersections across visible tracks       |
+
+Interactive docs at `http://localhost:8000/docs`.
+
 ## Project Status
 
-Phase 0 — **Scaffolding complete**. Application logic (parsers, shaders, render trees, migrations) is intentionally not yet implemented.
+End-to-end working: ingest → store → query → render → scrub → multi-track intersect.
