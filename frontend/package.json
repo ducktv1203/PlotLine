@@ -15,7 +15,9 @@
     "maplibre-gl": "^4.1.0",
     "@deck.gl/core": "^9.0.0",
     "@deck.gl/layers": "^9.0.0",
-    "lucide-react": "^0.350.0",
+    "@deck.gl/mapbox": "^9.0.0",
+    "@deck.gl/extensions": "^9.0.0",
+    "lucide-react": "^0.460.0",
     "clsx": "^2.1.0",
     "tailwind-merge": "^2.2.0"
   },
