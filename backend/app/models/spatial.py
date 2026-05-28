@@ -9,12 +9,40 @@ from __future__ import annotations
 from datetime import datetime
 
 from geoalchemy2 import Geometry
-from sqlalchemy import DateTime, ForeignKey, String, text
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
+from sqlalchemy import DateTime, ForeignKey, String, Table, Column, Integer, text
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
 
 class Base(DeclarativeBase):
     pass
+
+
+# Association table — a track can belong to multiple cases, and a case
+# is just a labelled bag of tracks.
+case_tracks = Table(
+    "case_tracks",
+    Base.metadata,
+    Column("case_id", Integer, ForeignKey("cases.id", ondelete="CASCADE"), primary_key=True),
+    Column("track_id", Integer, ForeignKey("timeline_tracks.id", ondelete="CASCADE"), primary_key=True),
+)
+
+
+class Case(Base):
+    """A named investigation grouping zero or more tracks."""
+
+    __tablename__ = "cases"
+
+    id: Mapped[int] = mapped_column(primary_key=True)
+    name: Mapped[str] = mapped_column(String(255), nullable=False)
+    description: Mapped[str | None] = mapped_column(String(2048), nullable=True)
+    created_at: Mapped[datetime] = mapped_column(
+        DateTime(timezone=True),
+        server_default=text("CURRENT_TIMESTAMP"),
+    )
+
+    tracks: Mapped[list["TimelineTrack"]] = relationship(
+        secondary=case_tracks, backref="cases"
+    )
 
 
 class TimelineTrack(Base):
