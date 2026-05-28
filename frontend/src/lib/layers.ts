@@ -32,11 +32,36 @@ export function colorForTrack(trackId: number): RGB {
   return TRACK_PALETTE[trackId % TRACK_PALETTE.length]!;
 }
 
+export interface PointHover {
+  readonly kind: "point";
+  readonly trackId: number;
+  readonly timestamp: string;
+  readonly lon: number;
+  readonly lat: number;
+  readonly pixelX: number;
+  readonly pixelY: number;
+}
+
+export interface IntersectionHover {
+  readonly kind: "intersection";
+  readonly trackA: number;
+  readonly trackB: number;
+  readonly tA: string;
+  readonly tB: string;
+  readonly distanceM: number;
+  readonly deltaS: number;
+  readonly pixelX: number;
+  readonly pixelY: number;
+}
+
+export type Hover = PointHover | IntersectionHover;
+
 export interface BuildTrackLayersOptions {
   readonly trackId: number;
   readonly color?: RGB;
   /** Epoch ms — hide points with timestamp > playheadMs. Omit for no filter. */
   readonly playheadMs?: number;
+  readonly onHover?: (hover: Hover | null) => void;
 }
 
 type Position = [number, number];
@@ -84,6 +109,24 @@ export function buildTrackLayers(
       stroked: true,
       getLineColor: [...color, 255],
       lineWidthMinPixels: 1,
+      pickable: true,
+      onHover: (info) => {
+        if (!options.onHover) return;
+        const f = info.object as TimelineFeature | undefined;
+        if (f) {
+          options.onHover({
+            kind: "point",
+            trackId: options.trackId,
+            timestamp: f.properties.timestamp,
+            lon: f.geometry.coordinates[0],
+            lat: f.geometry.coordinates[1],
+            pixelX: info.x,
+            pixelY: info.y,
+          });
+        } else {
+          options.onHover(null);
+        }
+      },
       getFilterValue: (f: TimelineFeature) =>
         Date.parse(f.properties.timestamp),
       filterRange,
@@ -96,6 +139,7 @@ const INTERSECTION_RED: RGB = [255, 0, 80];
 
 export function buildIntersectionLayer(
   intersections: ReadonlyArray<Intersection>,
+  onHover?: (hover: Hover | null) => void,
 ): Layer | null {
   if (intersections.length === 0) return null;
 
@@ -112,5 +156,24 @@ export function buildIntersectionLayer(
     getLineColor: [...INTERSECTION_RED, 220],
     lineWidthMinPixels: 1.5,
     pickable: true,
+    onHover: (info) => {
+      if (!onHover) return;
+      const d = info.object as Intersection | undefined;
+      if (d) {
+        onHover({
+          kind: "intersection",
+          trackA: d.track_a,
+          trackB: d.track_b,
+          tA: d.t_a,
+          tB: d.t_b,
+          distanceM: d.distance_m,
+          deltaS: d.delta_s,
+          pixelX: info.x,
+          pixelY: info.y,
+        });
+      } else {
+        onHover(null);
+      }
+    },
   });
 }
