@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4,
+          14.3
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-21T18:00:00+00:00",
+        "status": "LO",
+        "max_wind_kt": 25,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8,
+          13.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-22T00:00:00+00:00",
+        "status": "LO",
+        "max_wind_kt": 25,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2,
+          13.5
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-22T06:00:00+00:00",
+        "status": "LO",
+        "max_wind_kt": 25,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6,
+          13.1
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-22T12:00:00+00:00",
+        "status": "TD",
+        "max_wind_kt": 30,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7,
+          12.7
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-22T18:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 35,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4,
+          12.6
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-23T00:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 40,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.1,
+          12.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-23T06:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 40,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9,
+          13.4
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-23T12:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 40,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.6,
+          14.0
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-23T18:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 45,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.3,
+          14.7
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-24T00:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 55,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1,
+          15.6
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-24T06:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 60,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          16.6
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-24T12:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 65,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7,
+          17.7
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-24T18:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 75,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.6,
+          17.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-24T19:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 75,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4,
+          18.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-25T00:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 85,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          20.0
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-25T05:25:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 100,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.0,
+          20.1
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-25T06:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 100,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7,
+          20.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-25T09:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 95,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5,
+          21.7
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-25T12:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 95,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3,
+          23.3
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-25T18:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 90,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.9,
+          24.8
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-26T00:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 75,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4,
+          25.7
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-26T06:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 70,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          26.4
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-26T12:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 65,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.2,
+          27.0
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-26T18:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 65,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.1,
+          27.5
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-27T00:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 60,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.9,
+          28.1
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-27T06:00:00+00:00",
+        "status": "TS",
+        "max_wind_kt": 60,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.5,
+          28.8
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-27T12:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 70,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6,
+          29.7
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-27T18:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 70,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7,
+          30.5
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-28T00:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 65,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9,
+          31.3
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-28T06:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 65,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.0,
+          32.0
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-28T12:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 65,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -72.0,
+          32.8
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-28T18:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 65,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          33.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-29T00:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 70,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.5,
+          35.3
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-29T06:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 80,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0,
+          36.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-29T12:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 85,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2,
+          38.3
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-29T18:00:00+00:00",
+        "status": "HU",
+        "max_wind_kt": 80,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0,
+          38.8
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-29T21:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 75,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4,
+          39.4
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-29T23:30:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 70,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5,
+          39.5
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-30T00:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 70,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.2,
+          39.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-30T06:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 55,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8,
+          40.1
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-30T12:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 50,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9,
+          40.4
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-30T18:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 40,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8,
+          40.7
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-31T00:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 35,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3,
+          41.1
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-31T06:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 35,
+        "label": "Hurricane Sandy (2012)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7,
+          41.5
+        ]
+      },
+      "properties": {
+        "timestamp": "2012-10-31T12:00:00+00:00",
+        "status": "EX",
+        "max_wind_kt": 30,
+        "label": "Hurricane Sandy (2012)"
+      }
+    }
+  ]
+}

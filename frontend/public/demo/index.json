@@ -1,0 +1,37 @@
+[
+  {
+    "file": "katrina-2005.geojson",
+    "label": "Hurricane Katrina (2005)",
+    "points": 34
+  },
+  {
+    "file": "sandy-2012.geojson",
+    "label": "Hurricane Sandy (2012)",
+    "points": 45
+  },
+  {
+    "file": "harvey-2017.geojson",
+    "label": "Hurricane Harvey (2017)",
+    "points": 74
+  },
+  {
+    "file": "irma-2017.geojson",
+    "label": "Hurricane Irma (2017)",
+    "points": 66
+  },
+  {
+    "file": "maria-2017.geojson",
+    "label": "Hurricane Maria (2017)",
+    "points": 68
+  },
+  {
+    "file": "ida-2021.geojson",
+    "label": "Hurricane Ida (2021)",
+    "points": 40
+  },
+  {
+    "file": "ian-2022.geojson",
+    "label": "Hurricane Ian (2022)",
+    "points": 40
+  }
+]
