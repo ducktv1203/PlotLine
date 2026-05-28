@@ -74,14 +74,13 @@ export default function App() {
         byCategory.set(cat, bucket);
       }
 
-      let lastCaseId: number | null = null;
+      let lastCase: { id: number; trackIds: number[] } | null = null;
       for (const [category, entries] of byCategory) {
         const ids: number[] = [];
         for (const entry of entries) {
           const fc = await (await fetch(`/demo/${entry.file}`)).json();
           const ingested = await ingestGeoJSON(entry.label, fc);
           ids.push(ingested.track_id);
-          handleIngested(ingested.track_id);
         }
         if (ids.length > 0) {
           const created = await createCase(
@@ -89,15 +88,18 @@ export default function App() {
             ids,
             "Auto-generated demo data",
           );
-          lastCaseId = created.id;
+          lastCase = { id: created.id, trackIds: ids };
         }
       }
-      if (lastCaseId !== null) setActiveCaseId(lastCaseId);
+      setTrackListVersion((v) => v + 1);
       setCaseListVersion((v) => v + 1);
+      // Open one case cleanly — replaces visibleIds with just that case's
+      // tracks so the camera fits to one city instead of all cities at once.
+      if (lastCase) handleOpenCase(lastCase.id, lastCase.trackIds);
     } catch (e) {
       console.error("loadDemo failed", e);
     }
-  }, [handleIngested]);
+  }, [handleOpenCase]);
 
   const stepFrame = useCallback(
     (deltaMs: number) => {
