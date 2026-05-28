@@ -3,72 +3,96 @@
     "file": "sf-trace-1.geojson",
     "label": "San Francisco Mission \u2014 anonymous trace 1 (2025-10-07)",
     "points": 239,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 San Francisco Mission"
   },
   {
     "file": "sf-trace-2.geojson",
     "label": "San Francisco Mission \u2014 anonymous trace 2 (2025-07-13)",
     "points": 235,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 San Francisco Mission"
   },
   {
     "file": "sf-trace-3.geojson",
     "label": "San Francisco Mission \u2014 anonymous trace 3 (2024-11-20)",
     "points": 171,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 San Francisco Mission"
   },
   {
     "file": "sf-trace-4.geojson",
     "label": "San Francisco Mission \u2014 anonymous trace 4 (1970-01-21)",
     "points": 86,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 San Francisco Mission"
+  },
+  {
+    "file": "nyc-trace-1.geojson",
+    "label": "New York Midtown \u2014 anonymous trace 1 (2012-03-11)",
+    "points": 1565,
+    "category": "OSM Traces \u2014 New York Midtown"
+  },
+  {
+    "file": "nyc-trace-2.geojson",
+    "label": "New York Midtown \u2014 anonymous trace 2 (2024-05-20)",
+    "points": 777,
+    "category": "OSM Traces \u2014 New York Midtown"
+  },
+  {
+    "file": "nyc-trace-3.geojson",
+    "label": "New York Midtown \u2014 anonymous trace 3 (2024-07-05)",
+    "points": 355,
+    "category": "OSM Traces \u2014 New York Midtown"
+  },
+  {
+    "file": "nyc-trace-4.geojson",
+    "label": "New York Midtown \u2014 anonymous trace 4 (2024-05-24)",
+    "points": 266,
+    "category": "OSM Traces \u2014 New York Midtown"
   },
   {
     "file": "london-trace-1.geojson",
     "label": "London Westminster \u2014 anonymous trace 1 (2023-01-27)",
     "points": 2411,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 London Westminster"
   },
   {
     "file": "london-trace-2.geojson",
     "label": "London Westminster \u2014 anonymous trace 2 (2025-08-14)",
     "points": 2258,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 London Westminster"
   },
   {
     "file": "london-trace-3.geojson",
     "label": "London Westminster \u2014 anonymous trace 3 (2026-01-23)",
     "points": 225,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 London Westminster"
   },
   {
     "file": "london-trace-4.geojson",
     "label": "London Westminster \u2014 anonymous trace 4 (2026-03-09)",
     "points": 63,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 London Westminster"
   },
   {
     "file": "tokyo-trace-1.geojson",
     "label": "Tokyo Shibuya \u2014 anonymous trace 1 (2026-04-20)",
     "points": 3566,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 Tokyo Shibuya"
   },
   {
     "file": "tokyo-trace-2.geojson",
     "label": "Tokyo Shibuya \u2014 anonymous trace 2 (2026-04-29)",
     "points": 551,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 Tokyo Shibuya"
   },
   {
     "file": "tokyo-trace-3.geojson",
     "label": "Tokyo Shibuya \u2014 anonymous trace 3 (2026-04-30)",
     "points": 395,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 Tokyo Shibuya"
   },
   {
     "file": "tokyo-trace-4.geojson",
     "label": "Tokyo Shibuya \u2014 anonymous trace 4 (2026-04-30)",
     "points": 395,
-    "category": "Public Human GPS Traces (OSM contributors)"
+    "category": "OSM Traces \u2014 Tokyo Shibuya"
   }
 ]

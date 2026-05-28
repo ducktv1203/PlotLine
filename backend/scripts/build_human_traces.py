@@ -131,16 +131,16 @@ def main() -> int:
                     "file": f"{slug}.geojson",
                     "label": label,
                     "points": len(points),
-                    "category": "Public Human GPS Traces (OSM contributors)",
+                    "category": f"OSM Traces — {city_label}",
                 }
             )
             print(f"  wrote {slug}.geojson  ({len(points)} pts)")
 
-    # Replace any prior Public Human GPS entries; leave other categories alone.
+    # Replace any prior OSM Traces entries; leave other categories alone.
     cleaned = [
         e
         for e in existing
-        if e.get("category") != "Public Human GPS Traces (OSM contributors)"
+        if not str(e.get("category", "")).startswith("OSM Traces — ")
     ]
     manifest_path.write_text(
         json.dumps(cleaned + new_entries, indent=2), encoding="utf-8"
