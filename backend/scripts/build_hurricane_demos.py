@@ -138,7 +138,15 @@ def main() -> int:
     out_dir = repo_root / "frontend" / "public" / "demo"
     out_dir.mkdir(parents=True, exist_ok=True)
 
-    manifest: list[dict[str, str | int]] = []
+    # Preserve other categories that may already be in the manifest.
+    manifest_path = out_dir / "index.json"
+    existing: list[dict[str, str | int]] = (
+        json.loads(manifest_path.read_text(encoding="utf-8"))
+        if manifest_path.exists()
+        else []
+    )
+
+    new_entries: list[dict[str, str | int]] = []
     for storm_id, label, slug in TARGETS:
         if storm_id not in storms:
             print(f"  ! missing {storm_id} ({label}) — skipping")
@@ -147,15 +155,21 @@ def main() -> int:
         fc = _observations_to_feature_collection(label, observations)
         out_path = out_dir / f"{slug}.geojson"
         out_path.write_text(json.dumps(fc, indent=2), encoding="utf-8")
-        manifest.append(
-            {"file": f"{slug}.geojson", "label": label, "points": len(observations)}
+        new_entries.append(
+            {
+                "file": f"{slug}.geojson",
+                "label": label,
+                "points": len(observations),
+                "category": "Atlantic Hurricane Reference",
+            }
         )
         print(f"  wrote {out_path.name}  ({len(observations)} observations)")
 
-    (out_dir / "index.json").write_text(
-        json.dumps(manifest, indent=2), encoding="utf-8"
+    keep = [e for e in existing if e["file"] not in {n["file"] for n in new_entries}]
+    manifest_path.write_text(
+        json.dumps(keep + new_entries, indent=2), encoding="utf-8"
     )
-    print(f"\nDone. {len(manifest)} storms written to {out_dir}")
+    print(f"\nDone. Manifest now has {len(keep) + len(new_entries)} entries.")
     return 0
 
 

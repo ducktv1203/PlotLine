@@ -2,36 +2,61 @@
   {
     "file": "katrina-2005.geojson",
     "label": "Hurricane Katrina (2005)",
-    "points": 34
+    "points": 34,
+    "category": "Atlantic Hurricane Reference"
   },
   {
     "file": "sandy-2012.geojson",
     "label": "Hurricane Sandy (2012)",
-    "points": 45
+    "points": 45,
+    "category": "Atlantic Hurricane Reference"
   },
   {
     "file": "harvey-2017.geojson",
     "label": "Hurricane Harvey (2017)",
-    "points": 74
+    "points": 74,
+    "category": "Atlantic Hurricane Reference"
   },
   {
     "file": "irma-2017.geojson",
     "label": "Hurricane Irma (2017)",
-    "points": 66
+    "points": 66,
+    "category": "Atlantic Hurricane Reference"
   },
   {
     "file": "maria-2017.geojson",
     "label": "Hurricane Maria (2017)",
-    "points": 68
+    "points": 68,
+    "category": "Atlantic Hurricane Reference"
   },
   {
     "file": "ida-2021.geojson",
     "label": "Hurricane Ida (2021)",
-    "points": 40
+    "points": 40,
+    "category": "Atlantic Hurricane Reference"
   },
   {
     "file": "ian-2022.geojson",
     "label": "Hurricane Ian (2022)",
-    "points": 40
+    "points": 40,
+    "category": "Atlantic Hurricane Reference"
+  },
+  {
+    "file": "turkey-syria-2023.geojson",
+    "label": "2023 Turkey-Syria Earthquake Sequence",
+    "points": 382,
+    "category": "Major Earthquake Sequences"
+  },
+  {
+    "file": "tohoku-2011.geojson",
+    "label": "2011 Tohoku Earthquake Sequence",
+    "points": 460,
+    "category": "Major Earthquake Sequences"
+  },
+  {
+    "file": "ridgecrest-2019.geojson",
+    "label": "2019 Ridgecrest Earthquake Sequence",
+    "points": 321,
+    "category": "Major Earthquake Sequences"
   }
 ]
