@@ -68,6 +68,57 @@ export async function fetchIntersections(
   return (await res.json()) as IntersectionsResponse;
 }
 
+// --- Cases --- ----------------------------------------------------------- //
+
+export interface CaseSummary {
+  readonly id: number;
+  readonly name: string;
+  readonly description: string | null;
+  readonly track_count: number;
+}
+
+export interface CaseDetail {
+  readonly id: number;
+  readonly name: string;
+  readonly description: string | null;
+  readonly track_ids: ReadonlyArray<number>;
+}
+
+export async function listCases(): Promise<CaseSummary[]> {
+  const res = await fetch(`${API_BASE_URL}/cases`);
+  if (!res.ok) throw new Error(`listCases failed: ${res.status}`);
+  return (await res.json()) as CaseSummary[];
+}
+
+export async function fetchCase(id: number): Promise<CaseDetail> {
+  const res = await fetch(`${API_BASE_URL}/cases/${id}`);
+  if (!res.ok) throw new Error(`fetchCase(${id}) failed: ${res.status}`);
+  return (await res.json()) as CaseDetail;
+}
+
+export async function createCase(
+  name: string,
+  trackIds: ReadonlyArray<number>,
+  description?: string,
+): Promise<CaseDetail> {
+  const res = await fetch(`${API_BASE_URL}/cases`, {
+    method: "POST",
+    headers: { "Content-Type": "application/json" },
+    body: JSON.stringify({
+      name,
+      description: description ?? null,
+      track_ids: [...trackIds],
+    }),
+  });
+  if (!res.ok) throw new Error(`createCase failed: ${res.status}`);
+  return (await res.json()) as CaseDetail;
+}
+
+export async function deleteCase(id: number): Promise<void> {
+  const res = await fetch(`${API_BASE_URL}/cases/${id}`, { method: "DELETE" });
+  if (!res.ok) throw new Error(`deleteCase(${id}) failed: ${res.status}`);
+}
+
 export interface IngestResponse {
   readonly track_id: number;
   readonly point_count: number;
