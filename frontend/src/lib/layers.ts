@@ -1,30 +1,43 @@
 /**
  * Layer factories — turn a TimelineFeatureCollection into deck.gl layers.
  *
- * Two layers per track:
- *   - PathLayer: one polyline through all points (the route)
- *   - ScatterplotLayer: a dot at every observed position (the samples)
+ * `buildTrackLayers` produces the path + scatter pair for ONE track.
+ * `buildIntersectionLayer` produces an overlay for space-time hits across
+ *   multiple tracks. Both are pure functions so MapCanvas only re-renders
+ *   layers when its inputs change.
  *
- * When `playheadMs` is set the scatter layer uses DataFilterExtension to
- * hide points observed after the playhead. The filter runs on the GPU,
- * so 100k+ points still scrub at frame rate. The path layer is left
- * un-filtered intentionally — the full route is meant to stay visible
- * as a "context" backdrop while the playhead reveals samples.
+ * When `playheadMs` is set the scatter layer is filtered on the GPU via
+ * DataFilterExtension. The path stays as a dim trail for context.
  */
 import { PathLayer, ScatterplotLayer } from "@deck.gl/layers";
 import { DataFilterExtension } from "@deck.gl/extensions";
 import type { Layer } from "@deck.gl/core";
 
+import type { Intersection } from "@/lib/api";
 import type { TimelineFeature, TimelineFeatureCollection } from "@/types/spatial";
+
+export type RGB = readonly [number, number, number];
+
+/** Palette for distinct tracks — first N tracks pick from here in order. */
+export const TRACK_PALETTE: ReadonlyArray<RGB> = [
+  [0, 240, 255], //  cyan
+  [255, 176, 0], //  amber
+  [57, 255, 20], //  tactical-green
+  [255, 0, 80], //   tactical-pink
+  [180, 110, 255], // violet
+  [255, 255, 255], // white
+];
+
+export function colorForTrack(trackId: number): RGB {
+  return TRACK_PALETTE[trackId % TRACK_PALETTE.length]!;
+}
 
 export interface BuildTrackLayersOptions {
   readonly trackId: number;
-  readonly color?: readonly [number, number, number];
+  readonly color?: RGB;
   /** Epoch ms — hide points with timestamp > playheadMs. Omit for no filter. */
   readonly playheadMs?: number;
 }
-
-const DEFAULT_TACTICAL_CYAN: readonly [number, number, number] = [0, 240, 255];
 
 type Position = [number, number];
 
@@ -38,7 +51,7 @@ export function buildTrackLayers(
   collection: TimelineFeatureCollection,
   options: BuildTrackLayersOptions,
 ): Layer[] {
-  const color = options.color ?? DEFAULT_TACTICAL_CYAN;
+  const color = options.color ?? colorForTrack(options.trackId);
   const path: Position[] = collection.features.map(
     (f) => [...f.geometry.coordinates] as Position,
   );
@@ -59,15 +72,14 @@ export function buildTrackLayers(
       getWidth: 3,
       widthMinPixels: 2,
     }),
-    // DataFilterExtension adds `getFilterValue` / `filterRange` props that
-    // aren't on ScatterplotLayer's base type signature — we widen the props
-    // type here rather than reach for `as any`.
     new ScatterplotLayer<TimelineFeature, { getFilterValue: (f: TimelineFeature) => number; filterRange: [number, number] }>({
       id: `track-${options.trackId}-points`,
       data: [...collection.features],
       getPosition: (f) => [...f.geometry.coordinates] as Position,
-      getRadius: 40,
-      radiusUnits: "meters",
+      getRadius: 4,
+      radiusUnits: "pixels",
+      radiusMinPixels: 3,
+      radiusMaxPixels: 8,
       getFillColor: [...color, 220],
       stroked: true,
       getLineColor: [...color, 255],
@@ -78,4 +90,27 @@ export function buildTrackLayers(
       extensions: [timestampFilter],
     }),
   ];
+}
+
+const INTERSECTION_RED: RGB = [255, 0, 80];
+
+export function buildIntersectionLayer(
+  intersections: ReadonlyArray<Intersection>,
+): Layer | null {
+  if (intersections.length === 0) return null;
+
+  return new ScatterplotLayer<Intersection>({
+    id: "intersections",
+    data: [...intersections],
+    getPosition: (d) => [d.lon, d.lat] as Position,
+    // Pixel-scaled so the markers stay readable regardless of zoom and
+    // don't bloom into a single blob when many cluster together.
+    getRadius: 6,
+    radiusUnits: "pixels",
+    getFillColor: [...INTERSECTION_RED, 30],
+    stroked: true,
+    getLineColor: [...INTERSECTION_RED, 220],
+    lineWidthMinPixels: 1.5,
+    pickable: true,
+  });
 }
