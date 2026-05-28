@@ -39,11 +39,19 @@ export default function App() {
 
   const loadDemo = useCallback(async () => {
     try {
-      const res = await fetch("/demo/sample-track.geojson");
-      if (!res.ok) throw new Error(`demo fetch failed: ${res.status}`);
-      const collection = await res.json();
-      const ingested = await ingestGeoJSON("sample-demo", collection);
-      handleIngested(ingested.track_id);
+      const manifestRes = await fetch("/demo/index.json");
+      if (!manifestRes.ok)
+        throw new Error(`demo index fetch failed: ${manifestRes.status}`);
+      const manifest = (await manifestRes.json()) as Array<{
+        file: string;
+        label: string;
+        points: number;
+      }>;
+      for (const entry of manifest) {
+        const fc = await (await fetch(`/demo/${entry.file}`)).json();
+        const ingested = await ingestGeoJSON(entry.label, fc);
+        handleIngested(ingested.track_id);
+      }
     } catch (e) {
       console.error("loadDemo failed", e);
     }
