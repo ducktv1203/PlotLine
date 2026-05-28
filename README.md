@@ -1,8 +1,8 @@
 # PlotLine
 
-> **Cinematic Geospatial OSINT Sandbox** — an interactive, browser-based situation-room engine that ingests chronological location footprints and projects them onto a hardware-accelerated, scrubable map.
+> A geospatial OSINT tool for reconstructing movement from location data.
 
-PlotLine is an empty sandbox engine: it takes unstructured CSV or custom GeoJSON timelines and reconstructs paths, intersections, and spatiotemporal events inside a tactical-intelligence aesthetic (pitch-black canvas, monospace type, high-contrast neon accents).
+PlotLine ingests chronological location footprints (CSV or GeoJSON timelines) and projects them onto an interactive, GPU-accelerated map — letting you scrub through time, trace paths, and surface spatiotemporal intersections.
 
 ---
 
