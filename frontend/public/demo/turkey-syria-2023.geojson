@@ -1,0 +1,6499 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0143,
+          37.2256
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:17:34.342000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 7.8,
+        "place": "Pazarcik earthquake, Kahramanmaras earthquake sequence",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0001,
+          37.2252
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:26:50.869000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.7,
+        "place": "24 km ENE of Nurda??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8929,
+          37.1893
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:28:15.784000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 6.7,
+        "place": "14 km E of Nurda??, Turkey",
+        "depth_km": 9.797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6832,
+          36.9921
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:36:27.357000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.6,
+        "place": "Turkey-Syria border region",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4767,
+          36.6696
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:40:48.558000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "14 km SSW of A?a?? Karafak?l?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5117,
+          37.9792
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:41:15.211000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "10 km SW of Sincik, Turkey",
+        "depth_km": 14.252
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1435,
+          37.9828
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:48:12.210000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "9 km WSW of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.7424,
+          38.2407
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:50:10.207000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "25 km NNE of Sincik, Turkey",
+        "depth_km": 15.123
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6192,
+          36.7205
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:51:19.056000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "8 km SE of A?a?? Karafak?l?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1578,
+          37.4756
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:51:43.490000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "12 km W of Pazarc?k, Turkey",
+        "depth_km": 7.445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1708,
+          36.3603
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:54:36.565000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "3 km W of Serinyol, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5988,
+          37.2073
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:55:41.029000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "2 km ENE of Bah\u00e7e, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3615,
+          37.7175
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:56:29.834000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "7 km ESE of \u00c7a?layancerit, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3142,
+          35.1453
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:57:26.332000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "57 km W of B?niy?s, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6208,
+          37.0302
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T01:58:23.118000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.1,
+        "place": "12 km SSE of Hasanbeyli, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8026,
+          37.7238
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:01:18.994000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "6 km WNW of Besni, Turkey",
+        "depth_km": 16.202
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.095,
+          37.3512
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:01:45.687000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "23 km SW of Pazarc?k, Turkey",
+        "depth_km": 10.502
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9141,
+          37.7712
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:03:37.341000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.3,
+        "place": "Central Turkey",
+        "depth_km": 16.929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0613,
+          37.9227
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:06:23.457000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "19 km NE of Tut, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5195,
+          38.1562
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:10:16.832000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "15 km NNW of Sincik, Turkey",
+        "depth_km": 14.253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2237,
+          37.9265
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:11:48.911000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "11 km S of \u00c7elikhan, Turkey",
+        "depth_km": 16.711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8539,
+          37.2863
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:13:40.815000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "16 km NE of Nurda??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0449,
+          37.4468
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:16:09.128000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "18 km SE of Kahramanmara?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7301,
+          37.1024
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:17:40.715000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "7 km S of Nurda??, Turkey",
+        "depth_km": 12.201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0658,
+          37.4358
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:21:20.561000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "20 km SE of Kahramanmara?, Turkey",
+        "depth_km": 14.349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9658,
+          37.1816
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:23:14.336000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.3,
+        "place": "20 km E of Nurda??, Turkey",
+        "depth_km": 11.359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9502,
+          37.4292
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:28:43.721000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "Central Turkey",
+        "depth_km": 8.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8216,
+          37.4137
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:31:26.171000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "21 km SSW of Kahramanmara?, Turkey",
+        "depth_km": 12.112
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1467,
+          37.5639
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:32:08.686000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "15 km WNW of Pazarc?k, Turkey",
+        "depth_km": 17.393
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.495,
+          38.1084
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:33:28.446000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "13 km NW of Sincik, Turkey",
+        "depth_km": 17.891
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2266,
+          37.4941
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:34:18.119000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "6 km W of Pazarc?k, Turkey",
+        "depth_km": 14.637
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0363,
+          37.0822
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:34:51.505000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "24 km NNE of Musabeyli, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3908,
+          37.8697
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:38:44.305000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "15 km NE of Ad?yaman, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3895,
+          36.8497
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:43:47.299000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "12 km WNW of Hassa, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3519,
+          36.7084
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:54:00.446000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "14 km ENE of Denizciler, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.8005,
+          38.8297
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T02:56:51.520000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "6 km NE of Keban, Turkey",
+        "depth_km": 14.19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.435,
+          38.1475
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:01:14.387000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "19 km NW of Sincik, Turkey",
+        "depth_km": 14.043
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7822,
+          37.9204
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:02:18.228000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "18 km NW of Tut, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.482,
+          38.1742
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:04:45.269000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "19 km NW of Sincik, Turkey",
+        "depth_km": 16.696
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8001,
+          37.7127
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:10:20.089000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "5 km WNW of Besni, Turkey",
+        "depth_km": 16.08
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3267,
+          37.5003
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:12:11.339000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "2 km ENE of Pazarc?k, Turkey",
+        "depth_km": 3.572
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4951,
+          38.0715
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:16:16.646000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "11 km WNW of Sincik, Turkey",
+        "depth_km": 17.34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4257,
+          37.733
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:19:15.155000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "12 km E of \u00c7a?layancerit, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.558,
+          38.1446
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:22:44.992000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "12 km NNW of Sincik, Turkey",
+        "depth_km": 12.514
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8357,
+          37.9268
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:24:30.161000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "16 km NNW of Tut, Turkey",
+        "depth_km": 5.884
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5775,
+          38.0773
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:28:45.962000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "5 km NW of Sincik, Turkey",
+        "depth_km": 16.819
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7506,
+          37.0297
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:30:00.256000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "15 km S of Nurda??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5132,
+          38.2368
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:35:39.215000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "21 km SE of Malatya, Turkey",
+        "depth_km": 9.221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1335,
+          37.2442
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:41:28.306000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "30 km NW of Gaziantep, Turkey",
+        "depth_km": 15.704
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.65,
+          38.1656
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:45:48.353000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "14 km NNE of Sincik, Turkey",
+        "depth_km": 16.431
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4251,
+          37.7604
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:54:00.586000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 14.46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8946,
+          37.3982
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:55:10.580000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "20 km S of Kahramanmara?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.426,
+          36.6427
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T03:58:19.868000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "17 km NNE of K?r?khan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3919,
+          37.8315
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:04:22.647000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "13 km NE of \u00c7a?layancerit, Turkey",
+        "depth_km": 5.017
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4588,
+          37.7658
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:05:15.992000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "15 km E of \u00c7a?layancerit, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9133,
+          37.0844
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:05:56.670000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "18 km ESE of Nurda??, Turkey",
+        "depth_km": 12.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6102,
+          38.1847
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:14:17.612000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "16 km N of Sincik, Turkey",
+        "depth_km": 9.958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2784,
+          37.5236
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:16:49.374000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "Central Turkey",
+        "depth_km": 11.788
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5342,
+          38.1845
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:18:46.986000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "17 km NNW of Sincik, Turkey",
+        "depth_km": 16.416
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2001,
+          37.555
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:24:45.154000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "11 km NW of Pazarc?k, Turkey",
+        "depth_km": 13.385
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8854,
+          37.2919
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:31:02.298000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "19 km NE of Nurda??, Turkey",
+        "depth_km": 12.932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4413,
+          36.3649
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:31:23.899000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "2 km NE of Uzunkavak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4444,
+          37.7907
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:39:47.868000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "14 km ENE of \u00c7a?layancerit, Turkey",
+        "depth_km": 17.034
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4733,
+          36.7176
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:47:57.170000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "9 km SSW of Hassa, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1603,
+          37.4609
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T04:56:05.491000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "12 km WSW of Pazarc?k, Turkey",
+        "depth_km": 16.174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8568,
+          37.7898
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:01:50.591000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "5 km W of Tut, Turkey",
+        "depth_km": 16.551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0793,
+          37.3768
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:04:31.901000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "23 km WSW of Pazarc?k, Turkey",
+        "depth_km": 11.165
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1888,
+          37.4966
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:12:52.692000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "9 km W of Pazarc?k, Turkey",
+        "depth_km": 5.336
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7821,
+          37.7999
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:16:55.953000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "11 km W of Tut, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3054,
+          38.0197
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:19:48.566000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "6 km E of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7106,
+          37.3082
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:22:44.551000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "12 km E of Yavuzeli, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.042,
+          38.0053
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:31:22.169000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "17 km W of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2361,
+          38.0957
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:33:10.998000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "7 km N of \u00c7elikhan, Turkey",
+        "depth_km": 15.345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2183,
+          36.4188
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:35:21.339000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "6 km N of Serinyol, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2085,
+          36.2975
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:36:33.636000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "1 km N of B\u00fcy\u00fck Dalyan, Turkey",
+        "depth_km": 13.032
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2366,
+          37.9116
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:40:38.044000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "12 km S of \u00c7elikhan, Turkey",
+        "depth_km": 19.278
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2043,
+          36.2606
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:43:49.888000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "3 km S of B\u00fcy\u00fck Dalyan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4042,
+          36.3265
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:44:55.583000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "Turkey-Syria border region",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4457,
+          37.9201
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T05:55:49.697000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "19 km SW of Sincik, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9513,
+          37.4072
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T06:14:38.909000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "19 km S of Kahramanmara?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3761,
+          38.1199
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T06:18:02.484000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "16 km NE of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1506,
+          37.3961
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T06:26:28.168000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "16 km SW of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2173,
+          38.0564
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T06:27:52.742000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "3 km NNW of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.394,
+          37.6427
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T06:54:57.430000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "14 km SE of \u00c7a?layancerit, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0824,
+          37.47
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T06:59:05.328000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "18 km SE of Kahramanmara?, Turkey",
+        "depth_km": 19.154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4459,
+          36.7139
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T07:08:32.392000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "11 km SW of Hassa, Turkey",
+        "depth_km": 11.457
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3297,
+          36.595
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T07:10:09.617000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "10 km NNW of K?r?khan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2602,
+          36.7978
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T07:24:13.862000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "5 km SSE of D\u00f6rtyol, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5034,
+          35.6445
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T07:29:40.592000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "28 km WNW of Latakia, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0812,
+          37.8718
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T07:41:14.046000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "eastern Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.5841,
+          35.5907
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T07:54:39.189000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "19 km WNW of Latakia, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4225,
+          36.6219
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T08:01:47.818000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "14 km NNE of K?r?khan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3088,
+          35.6075
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T08:12:52.583000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "44 km W of Latakia, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9229,
+          36.1795
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T08:26:39.492000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "11 km WNW of Uzunba?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2102,
+          37.4633
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T08:52:37.361000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2553,
+          38.0402
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T08:58:34.938000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "2 km NE of \u00c7elikhan, Turkey",
+        "depth_km": 11.354
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9812,
+          37.7583
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T09:21:01.495000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "7 km SE of Tut, Turkey",
+        "depth_km": 17.065
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.427,
+          36.9214
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T09:23:45.448000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "15 km NNW of Hassa, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7946,
+          37.3147
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T09:36:17.151000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 11.367
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.162,
+          35.8319
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:07:31.339000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "11 km SE of Yaylada??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3323,
+          37.9287
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:12:17.438000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "13 km SE of \u00c7elikhan, Turkey",
+        "depth_km": 17.106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1962,
+          38.0106
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:24:48.811000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 7.5,
+        "place": "Elbistan earthquake, Kahramanmaras earthquake sequence",
+        "depth_km": 7.432
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0984,
+          38.0315
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:26:46.742000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 6,
+        "place": "12 km W of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2033,
+          37.9962
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:32:08.932000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.4,
+        "place": "7 km S of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 14.057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8023,
+          38.0249
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:35:58.161000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.8,
+        "place": "9 km SW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3582,
+          37.8722
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:38:57.715000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "12 km SW of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7967,
+          38.034
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:44:46.950000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "8 km SW of Do?an?ehir, Turkey",
+        "depth_km": 11.982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8385,
+          38.039
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:46:56.782000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "24 km SSW of Af?in, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.644,
+          38.0443
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:47:41.873000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "13 km ENE of G?ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8106,
+          37.9155
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:50:35.934000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "16 km NW of Tut, Turkey",
+        "depth_km": 16.124
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9263,
+          37.6189
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:50:56.892000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1847,
+          38.248
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:51:30.994000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.7,
+        "place": "7 km SW of Ye?ilyurt, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3766,
+          38.6244
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:55:02.401000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3801,
+          37.9728
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T10:56:24.688000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "5 km W of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4436,
+          37.8259
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:01:36.485000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "15 km S of Nurhak, Turkey",
+        "depth_km": 13.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6628,
+          38.0723
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:04:38.987000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "15 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 15.349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7588,
+          38.0752
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:05:35.084000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.1,
+        "place": "23 km SW of Af?in, Turkey",
+        "depth_km": 5.968
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3732,
+          37.9593
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:11:40.849000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "5 km W of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7493,
+          38.0274
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:20:24.969000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "Central Turkey",
+        "depth_km": 15.64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.246,
+          37.9321
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:28:01.235000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "10 km S of \u00c7elikhan, Turkey",
+        "depth_km": 13.126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9995,
+          37.9264
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:28:33.812000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "22 km SW of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 18.104
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.955,
+          38.1794
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:30:44.548000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "12 km NE of Do?an?ehir, Turkey",
+        "depth_km": 11.962
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.351,
+          37.9417
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:35:28.583000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "Central Turkey",
+        "depth_km": 17.733
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5678,
+          38.0622
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:39:41.665000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "7 km NE of G\u00f6ksun, Turkey",
+        "depth_km": 11.405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0506,
+          38.1471
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:44:09.385000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "eastern Turkey",
+        "depth_km": 16.478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3402,
+          37.9721
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:50:04.398000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "14 km WSW of G\u00f6ksun, Turkey",
+        "depth_km": 5.716
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7225,
+          38.016
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:51:22.063000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "15 km WSW of Do?an?ehir, Turkey",
+        "depth_km": 16.818
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6805,
+          38.0599
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:55:57.601000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "16 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 7.09
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5686,
+          38.0509
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T11:58:37.429000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "14 km NE of Nurhak, Turkey",
+        "depth_km": 15.351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5114,
+          38.0582
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:02:11.275000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 6,
+        "place": "4 km NNE of G\u00f6ksun, Turkey",
+        "depth_km": 8.516
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4016,
+          38.0169
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:07:32.722000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "8 km W of G\u00f6ksun, Turkey",
+        "depth_km": 8.28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3761,
+          37.9248
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:13:48.646000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "7 km SW of Nurhak, Turkey",
+        "depth_km": 17.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4541,
+          38.0621
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:21:18.492000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "5 km NW of G\u00f6ksun, Turkey",
+        "depth_km": 8.221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4824,
+          37.8798
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:31:40.752000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "10 km SSE of Nurhak, Turkey",
+        "depth_km": 16.174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0571,
+          37.9345
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:32:48.345000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "18 km WSW of \u00c7elikhan, Turkey",
+        "depth_km": 16.472
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2339,
+          38.0972
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:34:43.513000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "7 km N of \u00c7elikhan, Turkey",
+        "depth_km": 14.471
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7885,
+          37.9664
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:36:33.066000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8659,
+          38.0382
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:48:01.449000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "23 km S of Af?in, Turkey",
+        "depth_km": 13.923
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.864,
+          38.0519
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T12:54:39.920000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "22 km SSW of Af?in, Turkey",
+        "depth_km": 18.833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6841,
+          38.1156
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:00:18.127000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "19 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4732,
+          37.9978
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:03:17.843000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "4 km NE of Nurhak, Turkey",
+        "depth_km": 9.48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2762,
+          37.991
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:06:39.750000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "10 km SE of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 19.665
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.371,
+          38.0384
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:07:45.076000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "Central Turkey",
+        "depth_km": 16.904
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2923,
+          36.2541
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:09:21.093000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "4 km E of Kastal, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6564,
+          38.0104
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:11:56.990000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "14 km E of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5237,
+          37.9077
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:12:27.843000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "12 km S of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9066,
+          37.8011
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:14:01.462000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "1 km NW of Tut, Turkey",
+        "depth_km": 14.619
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3843,
+          37.9951
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:17:42.209000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "10 km WSW of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3789,
+          38.0367
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:22:01.325000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "Central Turkey",
+        "depth_km": 10.761
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3691,
+          36.3959
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:31:39.632000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "6 km NW of Uzunkavak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.3801,
+          38.2669
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:32:17.073000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "10 km SSE of Malatya, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5399,
+          37.9231
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:33:15.653000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Central Turkey",
+        "depth_km": 15.685
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4775,
+          36.3454
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:36:08.640000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "5 km E of Uzunkavak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7013,
+          38.0166
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:39:24.254000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.3,
+        "place": "16 km WSW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4916,
+          37.9405
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:44:51.298000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "5 km ESE of Nurhak, Turkey",
+        "depth_km": 16.865
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4642,
+          38.0588
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T13:58:50.413000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8768,
+          38.2079
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:03:08.489000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "13 km N of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4533,
+          37.9944
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:04:49.444000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "4 km SW of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.385,
+          37.7257
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:10:09.968000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "8 km ESE of \u00c7a?layancerit, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3571,
+          37.8732
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:17:18.854000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "12 km SW of Nurhak, Turkey",
+        "depth_km": 21.255
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5387,
+          36.8097
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:27:43.394000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "2 km ENE of Hassa, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4927,
+          37.9977
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:29:57.853000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "2 km S of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8572,
+          38.0365
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:33:07.461000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "5 km SSW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7439,
+          38.1782
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:41:57.177000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "15 km NW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.404,
+          38.0706
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:51:15.299000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "15 km ENE of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8354,
+          38.0378
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T14:57:46.819000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "6 km SSW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7355,
+          37.8791
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T15:14:34.402000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "13 km NE of G\u00f6lba??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1756,
+          38.19
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T15:33:32.721000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.4,
+        "place": "eastern Turkey",
+        "depth_km": 7.43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8519,
+          37.868
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T15:52:44.320000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 15.594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5505,
+          38.0709
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T15:59:27.990000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9911,
+          37.9972
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:06:42.958000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "18 km WSW of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7822,
+          36.1064
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:10:43.265000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "23 km W of Uzunba?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.433,
+          38.0912
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:21:46.033000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "9 km NW of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5048,
+          38.0189
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:22:44.967000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "0 km ESE of G\u00f6ksun, Turkey",
+        "depth_km": 3.826
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4607,
+          38.0666
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:25:01.255000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "5 km NNW of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8994,
+          37.9826
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:26:15.464000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "26 km WSW of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5982,
+          38.0385
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:26:39.507000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "9 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4364,
+          38.0468
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:27:19.276000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "6 km WNW of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.981,
+          37.4633
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:28:08.698000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "14 km SSE of Kahramanmara?, Turkey",
+        "depth_km": 5.178
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4828,
+          36.6625
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:32:11.661000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "14 km SSW of A?a?? Karafak?l?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5078,
+          38.0007
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:43:28.541000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "2 km SSE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4148,
+          38.0112
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T16:55:35.783000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "5 km NNW of Nurhak, Turkey",
+        "depth_km": 9.152
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3379,
+          37.961
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T17:11:47.921000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "9 km W of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5145,
+          38.1262
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T17:22:02.040000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "11 km N of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.696,
+          38.097
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T17:26:24.481000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "19 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7386,
+          37.0895
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T17:31:34.269000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "8 km S of Nurda??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8449,
+          38.0881
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T17:46:49.824000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5286,
+          38.1022
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T18:02:44.660000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "9 km NNE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4456,
+          37.9781
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T18:03:53.807000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.2,
+        "place": "6 km SW of G?ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7256,
+          36.9291
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T18:49:54.341000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "17 km WNW of Musabeyli, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8786,
+          36.9819
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T18:51:18.887000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "11 km NNW of Musabeyli, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1889,
+          37.9398
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T18:55:52.597000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "10 km SSW of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3231,
+          38.0322
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T19:12:31.181000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "12 km ESE of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3922,
+          37.989
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T19:15:47.865000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6645,
+          37.8505
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T19:25:01.538000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "23 km SE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2784,
+          38.0086
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T19:30:59.475000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "9 km SE of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1528,
+          37.4801
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T19:35:50.641000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "13 km W of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1927,
+          38.0516
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T19:40:16.799000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "4 km NW of \u00c7elikhan, Turkey",
+        "depth_km": 9.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6422,
+          38.0947
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T19:49:40.242000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "15 km ENE of G?ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3096,
+          38.0339
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:05:35.045000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "Adana, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6383,
+          37.8934
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:11:49.233000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 14.754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.479,
+          37.9649
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:14:11.184000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "6 km SSW of G\u00f6ksun, Turkey",
+        "depth_km": 6.59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6825,
+          38.0887
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:23:12.615000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "8 km NE of Sincik, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0859,
+          37.2507
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:37:51.879000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.3,
+        "place": "32 km SW of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9916,
+          38.2636
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:40:06.434000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "8 km SSE of Ak?ada?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5773,
+          38.0063
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:44:00.230000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1819,
+          36.1512
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:45:42.200000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "2 km SE of Dursunlu, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2511,
+          38.2106
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:53:24.379000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "9 km S of Ye?ilyurt, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4655,
+          37.9263
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T20:54:01.125000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4904,
+          36.7444
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T21:02:06.978000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "6 km SSW of Hassa, Turkey",
+        "depth_km": 19.625
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.034,
+          38.072
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T21:15:18.245000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.9,
+        "place": "13 km W of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 10.235
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5882,
+          38.032
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T21:57:43.529000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "8 km E of G\u00f6ksun, Turkey",
+        "depth_km": 9.855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8993,
+          38.0814
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T22:09:51.889000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "18 km S of Af?in, Turkey",
+        "depth_km": 10.236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1778,
+          38.1918
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T22:11:36.032000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "eastern Turkey",
+        "depth_km": 8.296
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4756,
+          37.9513
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T22:26:17.724000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "3 km ESE of Nurhak, Turkey",
+        "depth_km": 5.481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4145,
+          38.0473
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T22:29:39.343000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "7 km WNW of G\u00f6ksun, Turkey",
+        "depth_km": 6.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5637,
+          38.0613
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T22:44:54.848000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "7 km NE of G\u00f6ksun, Turkey",
+        "depth_km": 13.174
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6247,
+          37.9341
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T22:55:27.276000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "14 km SE of G\u00f6ksun, Turkey",
+        "depth_km": 11.221
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.404,
+          37.9846
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T23:13:30.166000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "3 km NW of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.3598,
+          35.6037
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-06T23:29:14.993000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "39 km WNW of Latakia, Syria",
+        "depth_km": 10.855
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6148,
+          37.8431
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T00:20:16.237000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "22 km SSE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4624,
+          38.0195
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T01:18:07.375000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "3 km W of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7693,
+          38.0903
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T01:29:18.918000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "21 km SW of Af?in, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5543,
+          38.0152
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T01:32:00.826000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "5 km E of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0521,
+          37.4326
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T01:34:29.191000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "20 km SSE of Kahramanmara?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5093,
+          38.0265
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T02:28:20.753000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "9 km NE of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5154,
+          38.6041
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T02:39:03.939000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "6 km N of Darende, Turkey",
+        "depth_km": 15.268
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9078,
+          38.1044
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T02:43:27.973000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "15 km S of Af?in, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9849,
+          35.9675
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T02:47:37.074000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "10 km NW of Yaylada??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5733,
+          38.0387
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T02:53:29.007000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "6 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1197,
+          37.3373
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T03:02:54.008000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "23 km SW of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6406,
+          37.917
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T03:08:57.248000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "14 km N of G\u00f6lba??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7309,
+          37.7639
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T03:13:12.754000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.5,
+        "place": "8 km ESE of G\u00f6lba??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3755,
+          37.6089
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T03:16:16.365000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "15 km NNE of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6323,
+          37.748
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T03:30:01.492000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "3 km S of G\u00f6lba??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2151,
+          36.2678
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T03:37:00.334000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "2 km SSE of B\u00fcy\u00fck Dalyan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.227,
+          37.507
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T03:58:56.236000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "6 km WNW of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4217,
+          37.7181
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T04:07:57.801000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "Kahramanmaras Earthquake Sequence",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6306,
+          36.8131
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T04:42:03.194000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "7 km ENE of A?a?? Karafak?l?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3488,
+          36.1531
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T05:26:30.941000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "Turkey-Syria border region",
+        "depth_km": 13.661
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1413,
+          38.0668
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T06:15:23.256000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "9 km WNW of \u00c7elikhan, Turkey",
+        "depth_km": 17.718
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8762,
+          37.3357
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T06:26:11.987000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "22 km NE of Nurda??, Turkey",
+        "depth_km": 7.505
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.455,
+          38.0342
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T06:40:53.780000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "3 km WNW of G\u00f6ksun, Turkey",
+        "depth_km": 6.359
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5808,
+          38.3144
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T06:48:51.697000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "26 km SSE of Darende, Turkey",
+        "depth_km": 5.787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6398,
+          38.0971
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T07:11:15.008000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.4,
+        "place": "7 km NNE of Sincik, Turkey",
+        "depth_km": 9.063
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5813,
+          38.0311
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T07:26:36.313000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "14 km ENE of Nurhak, Turkey",
+        "depth_km": 16.18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6006,
+          36.8855
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T07:45:06.565000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "12 km NE of Hassa, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4539,
+          36.5768
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T07:54:23.648000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "12 km NE of K?r?khan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.537,
+          38.1372
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T08:18:11.763000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "13 km NNW of Sincik, Turkey",
+        "depth_km": 15.974
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.528,
+          37.8817
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T08:25:46.610000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "11 km SE of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3693,
+          38.1471
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T09:53:31.468000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "17 km NW of G\u00f6ksun, Turkey",
+        "depth_km": 20.355
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1468,
+          37.5226
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T10:07:18.238000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "14 km WNW of Pazarc?k, Turkey",
+        "depth_km": 10.944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.57,
+          38.0164
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T10:18:14.589000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.3,
+        "place": "4 km WSW of Sincik, Turkey",
+        "depth_km": 12.988
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1915,
+          38.3061
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T10:27:32.024000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "eastern Turkey",
+        "depth_km": 16.052
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9441,
+          36.0958
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T10:37:17.535000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "9 km WSW of Uzunba?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6642,
+          37.8696
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T10:56:29.905000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "Central Turkey",
+        "depth_km": 8.656
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6707,
+          37.8906
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T10:57:45.760000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "21 km SE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6619,
+          37.9808
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T11:01:11.695000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "19 km E of Nurhak, Turkey",
+        "depth_km": 3.759
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.263,
+          38.2171
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T12:07:03.774000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "8 km S of Ye?ilyurt, Turkey",
+        "depth_km": 15.409
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8449,
+          36.0984
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T13:36:41.353000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "17 km WSW of Uzunba?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5803,
+          38.0426
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T14:23:17.029000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "7 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1447,
+          37.3758
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T15:31:28.295000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "18 km SW of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4771,
+          37.9939
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T15:48:54.123000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "3 km SSW of G\u00f6ksun, Turkey",
+        "depth_km": 11.132
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.9967,
+          36.0086
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T16:53:27.462000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.323,
+          37.9421
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T16:54:31.685000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "10 km WSW of Nurhak, Turkey",
+        "depth_km": 17.033
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6276,
+          37.8896
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T17:38:00.327000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Central Turkey",
+        "depth_km": 16.287
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4438,
+          38.0002
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T17:53:50.882000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "5 km WSW of G\u00f6ksun, Turkey",
+        "depth_km": 8.524
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6013,
+          37.9358
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T18:09:59.860000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.3,
+        "place": "Central Turkey",
+        "depth_km": 17.857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2929,
+          37.8659
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T18:14:08.571000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "11 km N of Ad?yaman, Turkey",
+        "depth_km": 26.793
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9204,
+          38.0472
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T19:13:49.620000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "Central Turkey",
+        "depth_km": 13.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4957,
+          37.904
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T21:21:25.723000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "Central Turkey",
+        "depth_km": 3.541
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9564,
+          37.4201
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T21:58:54.224000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "18 km S of Kahramanmara?, Turkey",
+        "depth_km": 12.635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5541,
+          38.0663
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T22:07:54.879000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Central Turkey",
+        "depth_km": 12.635
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5507,
+          38.0992
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T22:45:27.921000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "9 km NNE of G\u00f6ksun, Turkey",
+        "depth_km": 6.069
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8637,
+          36.0927
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-07T23:13:02.009000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1939,
+          38.0835
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T00:11:55.118000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "2 km NNE of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 14.197
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1193,
+          37.8759
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T02:25:12.724000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "18 km NW of Ad?yaman, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6433,
+          37.1601
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T02:55:57.054000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "7 km SE of Bah\u00e7e, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.671,
+          37.1511
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T03:01:02.184000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "6 km WSW of Nurda??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7087,
+          38.0593
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T05:52:37.157000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "19 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.313,
+          37.9558
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T06:08:34.681000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "10 km SE of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1959,
+          36.2022
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T06:09:00.273000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "3 km E of Antakya, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3794,
+          36.7009
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T07:20:41.894000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "16 km ENE of Denizciler, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2434,
+          36.3259
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T07:23:45.800000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "4 km SE of Serinyol, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4959,
+          38.0061
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T07:48:31.978000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "1 km S of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7666,
+          37.8795
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T08:45:36.239000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "15 km NE of G\u00f6lba??, Turkey",
+        "depth_km": 12.886
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5077,
+          36.6565
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T09:13:07.114000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "14 km SSW of A?a?? Karafak?l?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5009,
+          38.0337
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T09:52:11.967000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "1 km NNE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0022,
+          37.1554
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T10:26:23.750000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "23 km E of Nurda??, Turkey",
+        "depth_km": 6.602
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7704,
+          38.0268
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T11:00:19.726000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "11 km SW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6611,
+          37.9389
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T11:11:52.969000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.4,
+        "place": "17 km N of G\u00f6lba??, Turkey",
+        "depth_km": 9.559
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6179,
+          37.9367
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T11:24:00.758000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "Central Turkey",
+        "depth_km": 3.53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8835,
+          38.0802
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T11:37:21.861000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "18 km S of Af?in, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.2766,
+          38.8457
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T12:11:56.031000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2283,
+          37.9312
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T13:22:46.806000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "10 km S of \u00c7elikhan, Turkey",
+        "depth_km": 17.226
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4325,
+          37.9963
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T14:20:24.960000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5.1,
+        "place": "3 km N of Nurhak, Turkey",
+        "depth_km": 5.398
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6525,
+          38.0953
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T14:42:21.367000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "15 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 11.674
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5055,
+          38.0396
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T14:55:51.504000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "eastern Turkey",
+        "depth_km": 16.116
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.953,
+          38.0391
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T15:04:43.256000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5994,
+          37.8218
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T15:49:58.075000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 1.576
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.1589,
+          38.0244
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T16:55:40.516000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "4 km SSW of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.116,
+          37.5096
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T18:35:12.129000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "16 km W of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5409,
+          38.0531
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T19:05:19.712000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "5 km NE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.0996,
+          36.3313
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T19:48:11.735000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Turkey-Syria border region",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1247,
+          38.1972
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T20:12:06.104000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "15 km SW of Ye?ilyurt, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1703,
+          38.2135
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-08T22:36:49.468000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "11 km SW of Ye?ilyurt, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7147,
+          37.8831
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T01:44:19.249000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "13 km NNE of G\u00f6lba??, Turkey",
+        "depth_km": 8.154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4252,
+          36.8136
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T03:24:55.884000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "8 km W of Hassa, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5654,
+          37.9889
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T03:52:19.602000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "6 km SW of Sincik, Turkey",
+        "depth_km": 13.975
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3641,
+          37.9616
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T04:18:20.615000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "13 km WSW of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4712,
+          38.0951
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T04:34:45.242000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "14 km WNW of Sincik, Turkey",
+        "depth_km": 15.955
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6086,
+          38.0679
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T05:24:26.530000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "11 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 8.594
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1997,
+          38.1849
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T05:37:34.149000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "12 km SSW of Ye?ilyurt, Turkey",
+        "depth_km": 15.513
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.6589,
+          37.8752
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T06:49:51.214000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "10 km N of G?lba??, Turkey",
+        "depth_km": 14.944
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6603,
+          36.9611
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T07:18:17.198000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "Turkey-Syria border region",
+        "depth_km": 8.379
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5954,
+          37.995
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T07:42:08.070000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "9 km ESE of G\u00f6ksun, Turkey",
+        "depth_km": 6.994
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5452,
+          38.0799
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T07:57:06.462000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "Central Turkey",
+        "depth_km": 8.987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.6406,
+          38.0605
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T09:46:55.926000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "3 km NE of Sincik, Turkey",
+        "depth_km": 12.373
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9198,
+          37.2659
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T10:42:24.454000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "19 km ENE of Nurda??, Turkey",
+        "depth_km": 11.669
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7044,
+          37.9921
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T11:48:32.158000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "17 km SW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.7834,
+          37.9544
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T12:22:05.037000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "16 km SSW of Do?an?ehir, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5194,
+          38.0746
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T17:51:52.392000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "6 km NNE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.7977,
+          36.1764
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T18:49:36.565000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "21 km W of Uzunba?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6096,
+          38.0264
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T19:37:46.503000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "9 km E of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8496,
+          37.1694
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T21:46:29.508000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "10 km E of Nurda??, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6317,
+          37.1058
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-09T22:06:39.447000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "8 km ESE of Hasanbeyli, Turkey",
+        "depth_km": 5.459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.631,
+          37.8685
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T01:50:59.593000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "20 km SE of G\u00f6ksun, Turkey",
+        "depth_km": 5.225
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2167,
+          38.1343
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T02:03:42.954000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "12 km N of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1714,
+          38.1736
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T04:50:24.791000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "15 km SSW of Ye?ilyurt, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.451,
+          38.0858
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T04:53:51.269000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "eastern Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.2669,
+          35.0684
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T08:17:28.909000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "59 km WNW of ?ar??s, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1756,
+          38.0757
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T09:02:49.022000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "7 km NW of \u00c7elikhan, Turkey",
+        "depth_km": 7.345
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1375,
+          38.1976
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T10:01:20.828000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "14 km SW of Ye?ilyurt, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2951,
+          37.8868
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T17:00:51.366000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "21 km ESE of Saimbeyli, Turkey",
+        "depth_km": 2.087
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5981,
+          38.1788
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T17:31:24.653000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "15 km N of Sincik, Turkey",
+        "depth_km": 4.258
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5848,
+          38.0517
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-10T20:12:47.019000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "eastern Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5606,
+          36.5556
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T00:24:43.131000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "19 km ENE of K?r?khan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.4382,
+          37.9489
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T03:38:24.893000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "18 km WSW of Sincik, Turkey",
+        "depth_km": 10.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5708,
+          37.8165
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T04:47:04.418000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Central Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.192,
+          37.9256
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T06:06:23.849000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "11 km SSW of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5778,
+          38.0647
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T06:28:13.163000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "8 km NE of G\u00f6ksun, Turkey",
+        "depth_km": 8.106
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.95,
+          37.0598
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T07:55:41.897000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "19 km N of Musabeyli, Turkey",
+        "depth_km": 4.748
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.1329,
+          38.0281
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T09:03:36.465000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "9 km W of \u00c7elikhan, Turkey",
+        "depth_km": 4.448
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6274,
+          38.1233
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T11:05:17.347000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "16 km NE of G\u00f6ksun, Turkey",
+        "depth_km": 13.853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3096,
+          36.4869
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T11:51:41.073000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "4 km WSW of K?r?khan, Turkey",
+        "depth_km": 5.36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.67,
+          37.8492
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T11:59:53.865000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "24 km SE of G\u00f6ksun, Turkey",
+        "depth_km": 8.739
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6163,
+          38.0902
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T12:54:58.944000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "12 km NE of G\u00f6ksun, Turkey",
+        "depth_km": 8.66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.0757,
+          38.8519
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T13:09:59.585000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "13 km ENE of Hekimhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5034,
+          37.9428
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T14:38:03.890000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "8 km S of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.171,
+          36.268
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T17:20:01.540000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "1 km ENE of Kuzeytepe, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.732,
+          38.1325
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T17:50:16.285000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "14 km NE of Sincik, Turkey",
+        "depth_km": 2.958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.8675,
+          37.7557
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T20:39:04.780000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "6 km SW of Tut, Turkey",
+        "depth_km": 11.351
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.5737,
+          36.6384
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T22:29:15.692000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "Turkey-Syria border region",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4218,
+          38.0249
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-11T23:30:56.494000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "6 km W of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2326,
+          37.796
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T04:29:14.767000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "5 km NW of Ad?yaman, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.4568,
+          36.5324
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T04:46:30.728000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "9 km ENE of K?r?khan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4792,
+          37.9055
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T04:52:59.139000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "7 km SSE of Nurhak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.5843,
+          38.1156
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T06:15:23.782000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "9 km NNW of Sincik, Turkey",
+        "depth_km": 8.654
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.6189,
+          35.5279
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T07:12:36.425000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "15 km W of Latakia, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.3193,
+          38.0797
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T08:14:10.398000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "11 km E of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 7.67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.3017,
+          36.1158
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T09:32:23.493000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "4 km E of Alt?n\u00f6z\u00fc, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2786,
+          38.1339
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T10:00:25.592000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "12 km NNE of \u00c7elikhan, Turkey",
+        "depth_km": 16.771
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7677,
+          36.7991
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T12:25:22.576000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "16 km SW of Musabeyli, Turkey",
+        "depth_km": 4.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.2894,
+          37.9553
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T13:29:14.610000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "9 km SSE of \u00c7elikhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.7003,
+          37.8149
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T14:30:03.956000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "29 km SE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.031,
+          38.824
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T16:29:49.826000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 5,
+        "place": "8 km E of Hekimhan, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6197,
+          38.083
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T17:28:17.826000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.1,
+        "place": "12 km ENE of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.9989,
+          37.3429
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T18:33:14.268000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.7,
+        "place": "27 km SSE of Kahramanmara?, Turkey",
+        "depth_km": 9.339
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.0849,
+          37.2623
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T19:02:29.312000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "31 km SW of Pazarc?k, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.8854,
+          36.5999
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T21:21:34.902000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "9 km N of \u2018Afr?n, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.8488,
+          36.0389
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T22:02:06.488000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "20 km SW of Uzunba?, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6342,
+          38.0251
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-12T22:52:59.819000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "12 km E of G\u00f6ksun, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.6204,
+          36.8844
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-13T11:59:17.459000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "12 km NNE of A?a?? Karafak?l?, Turkey",
+        "depth_km": 11.34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          38.589,
+          38.0402
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-13T14:28:17.684000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "2 km WNW of Sincik, Turkey",
+        "depth_km": 13.42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.2865,
+          37.8703
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-13T15:15:05.178000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "21 km SE of Saimbeyli, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.42,
+          38.0051
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-13T19:20:27.970000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.6,
+        "place": "Central Turkey",
+        "depth_km": 7.437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1142,
+          36.781
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-14T01:56:32.424000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.2,
+        "place": "12 km WSW of D\u00f6rtyol, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          36.1295,
+          36.0172
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-14T11:54:11.925000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "6 km NNW of K??lak, Turkey",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.9533,
+          37.8316
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-14T13:13:07.027000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4,
+        "place": "5 km NE of Tut, Turkey",
+        "depth_km": 12.979
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.4049,
+          35.5292
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-14T13:44:03.567000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.3,
+        "place": "34 km W of Latakia, Syria",
+        "depth_km": 10.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.166,
+          38.0849
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-14T15:50:37.803000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.4,
+        "place": "3 km NW of Ekin\u00f6z\u00fc, Turkey",
+        "depth_km": 0.343
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.4908,
+          38.5302
+        ]
+      },
+      "properties": {
+        "timestamp": "2023-02-14T23:14:01.248000+00:00",
+        "label": "2023 Turkey-Syria Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "2 km SW of Darende, Turkey",
+        "depth_km": 5.0
+      }
+    }
+  ]
+}

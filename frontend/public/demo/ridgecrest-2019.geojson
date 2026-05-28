@@ -1,0 +1,5462 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5036667,
+          35.7081667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:02:55.340000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "11km SW of Searles Valley, CA",
+        "depth_km": 10.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5038333,
+          35.7053333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:33:49+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 6.4,
+        "place": "Ridgecrest Earthquake Sequence",
+        "depth_km": 10.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5671667,
+          35.644
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:35:01.660000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.49,
+        "place": "10km ENE of Ridgecrest, CA",
+        "depth_km": 4.64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.474,
+          35.6886667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:35:17.430000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.93,
+        "place": "11km SW of Searles Valley, CA",
+        "depth_km": 6.48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.437,
+          35.6936667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:35:46.340000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.63,
+        "place": "9km SSW of Searles Valley, CA",
+        "depth_km": 7.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5061667,
+          35.687
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:35:52.170000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.28,
+        "place": "13km SW of Searles Valley, CA",
+        "depth_km": 1.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5741667,
+          35.7341667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:36:04.360000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.94,
+        "place": "16km NE of Ridgecrest, CA",
+        "depth_km": 6.41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4773333,
+          35.7105
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:37:01.140000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.66,
+        "place": "9km SW of Searles Valley, CA",
+        "depth_km": 1.57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.516,
+          35.6655
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:37:14.850000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.97,
+        "place": "15km SW of Searles Valley, CA",
+        "depth_km": 1.64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4575,
+          35.6758333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:37:25.640000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.01,
+        "place": "11km SSW of Searles Valley, CA",
+        "depth_km": 15.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5516667,
+          35.7456667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:37:55.500000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.86,
+        "place": "14km W of Searles Valley, CA",
+        "depth_km": 8.29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.476,
+          35.714
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:38:21.450000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.73,
+        "place": "9km SW of Searles Valley, CA",
+        "depth_km": 1.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5782,
+          35.6215
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:38:47.500000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "8 km E of Ridgecrest, California",
+        "depth_km": 9.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.596,
+          35.6235
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:38:47.760000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "7km E of Ridgecrest, CA",
+        "depth_km": 8.55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4931667,
+          35.6876667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:39:35.360000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.69,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 10.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5708333,
+          35.7253333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:40:02.250000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.8,
+        "place": "15km NE of Ridgecrest, CA",
+        "depth_km": 6.63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5101667,
+          35.707
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:40:18.520000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.13,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 8.66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5018333,
+          35.6948333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:40:34.900000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.54,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 2.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5488,
+          35.6783
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:43:29.200000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "12 km ENE of Ridgecrest, California",
+        "depth_km": 5.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5071667,
+          35.6875
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:44:32.820000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.86,
+        "place": "13km SW of Searles Valley, CA",
+        "depth_km": 1.54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5465,
+          35.7455
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T17:47:17.810000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "13km W of Searles Valley, CA",
+        "depth_km": 7.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5085,
+          35.6876667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:01:23.180000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "13km SW of Searles Valley, CA",
+        "depth_km": 1.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.523,
+          35.6606667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:06:16.110000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.79,
+        "place": "14km ENE of Ridgecrest, CA",
+        "depth_km": 2.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6101667,
+          35.5991667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:07:09.270000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "6km ESE of Ridgecrest, CA",
+        "depth_km": 2.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4768333,
+          35.7108333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:08:45.070000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "9km SW of Searles Valley, CA",
+        "depth_km": 1.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.485,
+          35.7081667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:13:51.400000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "10km SW of Searles Valley, CA",
+        "depth_km": 6.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5521667,
+          35.745
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:27:59.440000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.23,
+        "place": "14km W of Searles Valley, CA",
+        "depth_km": 6.64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5656667,
+          35.6661667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:28:43.640000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.75,
+        "place": "11km ENE of Ridgecrest, CA",
+        "depth_km": 7.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.597,
+          35.6013333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:39:44.440000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.59,
+        "place": "7km ESE of Ridgecrest, CA",
+        "depth_km": 2.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4853333,
+          35.6758333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:47:06.590000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.34,
+        "place": "13km SW of Searles Valley, CA",
+        "depth_km": 8.53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.472,
+          35.6755
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:47:22.600000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.02,
+        "place": "12km SSW of Searles Valley, CA",
+        "depth_km": 10.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4961667,
+          35.682
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:50:15.910000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.7,
+        "place": "13km SW of Searles Valley, CA",
+        "depth_km": 1.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5996667,
+          35.5975
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:54:13.990000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.07,
+        "place": "7km ESE of Ridgecrest, CA",
+        "depth_km": 5.33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.56,
+          35.716
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:56:06.420000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.58,
+        "place": "15km NE of Ridgecrest, CA",
+        "depth_km": 1.92
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5541667,
+          35.7086667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T18:56:22.030000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.21,
+        "place": "15km NE of Ridgecrest, CA",
+        "depth_km": 1.16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4788333,
+          35.6715
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T19:21:32.090000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "13km SSW of Searles Valley, CA",
+        "depth_km": 5.16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.524,
+          35.6623333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T19:56:00.500000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.16,
+        "place": "14km ENE of Ridgecrest, CA",
+        "depth_km": 1.49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5125,
+          35.6991667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T20:14:50.340000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.99,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 5.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.477,
+          35.7115
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T22:05:22.270000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.56,
+        "place": "9km SW of Searles Valley, CA",
+        "depth_km": 1.32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5636667,
+          35.7463333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T22:12:08.490000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.43,
+        "place": "15km W of Searles Valley, CA",
+        "depth_km": 5.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4713333,
+          35.6731667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T23:12:40.400000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "12km SSW of Searles Valley, CA",
+        "depth_km": 9.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5245,
+          35.6623333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T23:34:00.630000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.82,
+        "place": "14km ENE of Ridgecrest, CA",
+        "depth_km": 2.61
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6106667,
+          35.6011667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T23:34:02.380000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.04,
+        "place": "6km ESE of Ridgecrest, CA",
+        "depth_km": 4.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5678333,
+          35.7478333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-04T23:42:33.830000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.72,
+        "place": "15km W of Searles Valley, CA",
+        "depth_km": 4.36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6178333,
+          35.7718333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T00:18:01.410000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.04,
+        "place": "18km NNE of Ridgecrest, CA",
+        "depth_km": 2.59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4828333,
+          35.7033333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T00:32:06.670000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.02,
+        "place": "10km SW of Searles Valley, CA",
+        "depth_km": 1.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5083333,
+          35.6946667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T00:45:39.460000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.85,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 6.22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5461667,
+          35.6401667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T02:01:59.010000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "12km E of Ridgecrest, CA",
+        "depth_km": 11.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5545,
+          35.722
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T04:11:38.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "14km WSW of Searles Valley, CA",
+        "depth_km": 2.02
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.481,
+          35.6993333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T04:14:45.300000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.56,
+        "place": "10km SW of Searles Valley, CA",
+        "depth_km": 1.16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5716667,
+          35.6228333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T06:09:23.110000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.65,
+        "place": "9km E of Ridgecrest, CA",
+        "depth_km": 7.25
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5631667,
+          35.7503333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T07:27:37.110000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.72,
+        "place": "14km W of Searles Valley, CA",
+        "depth_km": 6.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5481667,
+          35.6496667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T09:46:29.080000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "12km ENE of Ridgecrest, CA",
+        "depth_km": 2.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5901667,
+          35.602
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T10:59:38.920000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.54,
+        "place": "8km ESE of Ridgecrest, CA",
+        "depth_km": 2.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.575,
+          35.7603333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T11:07:53.040000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 5.37,
+        "place": "16km W of Searles Valley, CA",
+        "depth_km": 6.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5715,
+          35.7575
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T11:08:40.190000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.75,
+        "place": "15km W of Searles Valley, CA",
+        "depth_km": 7.02
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5706667,
+          35.7716667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T12:38:30.020000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.09,
+        "place": "15km W of Searles Valley, CA",
+        "depth_km": 6.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5643333,
+          35.7515
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T12:55:04.830000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.65,
+        "place": "15km W of Searles Valley, CA",
+        "depth_km": 7.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5666667,
+          35.7421667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T14:39:33.450000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.94,
+        "place": "15km W of Searles Valley, CA",
+        "depth_km": 2.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5796667,
+          35.6175
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-05T17:02:36.510000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.84,
+        "place": "9km E of Ridgecrest, CA",
+        "depth_km": 10.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5618333,
+          35.7281667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T00:13:02.720000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "15km WSW of Searles Valley, CA",
+        "depth_km": 3.13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5841667,
+          35.7501667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T00:51:25.700000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.67,
+        "place": "16km W of Searles Valley, CA",
+        "depth_km": 6.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5535,
+          35.7253333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:16:32.480000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.97,
+        "place": "14km WSW of Searles Valley, CA",
+        "depth_km": 0.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5608333,
+          35.7453333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:17:13.500000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.14,
+        "place": "14km W of Searles Valley, CA",
+        "depth_km": 6.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5993333,
+          35.7695
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:19:53.040000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 7.1,
+        "place": "Ridgecrest Earthquake Sequence",
+        "depth_km": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8525,
+          36.0068333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:20:36.080000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.33,
+        "place": "9km NNE of Little Lake, CA",
+        "depth_km": 13.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7376667,
+          35.9496667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:20:41.140000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.81,
+        "place": "15km E of Little Lake, CA",
+        "depth_km": 9.28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6601667,
+          35.8306667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:21:10.050000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.33,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 5.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5053333,
+          35.5423333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:21:19.190000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.15,
+        "place": "18km ESE of Ridgecrest, CA",
+        "depth_km": 5.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.729,
+          35.9216667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:22:03.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.64,
+        "place": "16km E of Little Lake, CA",
+        "depth_km": 8.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5456667,
+          35.748
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:22:17.100000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.55,
+        "place": "13km W of Searles Valley, CA",
+        "depth_km": 3.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4275,
+          35.6171667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:22:27.160000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.46,
+        "place": "17km S of Searles Valley, CA",
+        "depth_km": 8.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4301667,
+          35.6166667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:22:35.630000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.73,
+        "place": "17km S of Searles Valley, CA",
+        "depth_km": 9.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7365,
+          35.891
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:22:48.300000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.64,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 9.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6406667,
+          35.8378333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:23:07.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.78,
+        "place": "23km WNW of Searles Valley, CA",
+        "depth_km": 9.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6778333,
+          35.861
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:23:19.870000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.52,
+        "place": "22km ESE of Little Lake, CA",
+        "depth_km": 6.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.724,
+          35.8778333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:23:29.560000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 6.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5165,
+          35.5685
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:23:34.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.22,
+        "place": "16km ESE of Ridgecrest, CA",
+        "depth_km": 10.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6178333,
+          35.8031667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:23:50.720000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.84,
+        "place": "20km WNW of Searles Valley, CA",
+        "depth_km": 11.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7201667,
+          35.8876667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:24:07.550000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.91,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 7.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7075,
+          35.9013333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:24:15.200000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 7.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7273333,
+          35.9018333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:24:22.370000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.19,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 5.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6755,
+          35.8911667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:24:33.520000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.07,
+        "place": "21km ESE of Little Lake, CA",
+        "depth_km": 7.42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5695,
+          35.87
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:24:56.850000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.92,
+        "place": "19km NW of Searles Valley, CA",
+        "depth_km": 10.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6911667,
+          35.903
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:25:19.720000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.91,
+        "place": "20km E of Little Lake, CA",
+        "depth_km": 7.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6708333,
+          35.8606667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:25:27.970000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.61,
+        "place": "23km ESE of Little Lake, CA",
+        "depth_km": 10.32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6655,
+          35.8708333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:25:42.310000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.67,
+        "place": "23km ESE of Little Lake, CA",
+        "depth_km": 8.06
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.478,
+          35.6543333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:25:49.560000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 1.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6451667,
+          35.8331667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:26:04.010000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.02,
+        "place": "23km WNW of Searles Valley, CA",
+        "depth_km": 8.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4368333,
+          35.6135
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:26:27.680000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.76,
+        "place": "17km S of Searles Valley, CA",
+        "depth_km": 6.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6955,
+          35.8998333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:26:40.490000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 6.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6495,
+          35.8875
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:26:51.990000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.09,
+        "place": "24km ESE of Little Lake, CA",
+        "depth_km": 10.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4176667,
+          35.6105
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:27:04.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.84,
+        "place": "17km SSW of Trona, CA",
+        "depth_km": 5.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7258333,
+          35.9138333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:27:07.010000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "16km E of Little Lake, CA",
+        "depth_km": 8.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4313333,
+          35.5303333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:27:11.370000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.57,
+        "place": "24km ESE of Ridgecrest, CA",
+        "depth_km": 3.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6578333,
+          35.8733333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:27:18.420000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.91,
+        "place": "24km ESE of Little Lake, CA",
+        "depth_km": 6.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4866667,
+          35.665
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:27:25.350000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.92,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 5.51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6975,
+          35.8895
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:27:36.260000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.03,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 7.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7316667,
+          35.9106667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:28:00.730000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.09,
+        "place": "16km E of Little Lake, CA",
+        "depth_km": 8.16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6598333,
+          35.8411667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:28:12.340000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.09,
+        "place": "24km WNW of Searles Valley, CA",
+        "depth_km": 11.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6906667,
+          35.8695
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:28:25.160000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "21km ESE of Little Lake, CA",
+        "depth_km": 2.66
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7221667,
+          35.9025
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:28:46.550000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.19,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 4.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4465,
+          35.6566667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:29:10.290000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.02,
+        "place": "13km SSW of Searles Valley, CA",
+        "depth_km": 2.23
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6526667,
+          35.8656667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:29:15.860000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.01,
+        "place": "24km ESE of Little Lake, CA",
+        "depth_km": 15.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5088333,
+          35.7325
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:29:28.840000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.07,
+        "place": "10km WSW of Searles Valley, CA",
+        "depth_km": 7.03
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7115,
+          35.9028333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:29:32.080000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.51,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 3.18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.704,
+          35.9016667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:29:47.130000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 7.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6818333,
+          35.8705
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:29:50.040000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "22km ESE of Little Lake, CA",
+        "depth_km": 5.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7018333,
+          35.8845
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:30:00.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.56,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 6.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3581667,
+          35.5566667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:30:25.050000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.49,
+        "place": "23km S of Trona, CA",
+        "depth_km": 8.71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7223333,
+          35.8671667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:30:43.010000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 8.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.704,
+          35.9068333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:30:59.670000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.9,
+        "place": "19km E of Little Lake, CA",
+        "depth_km": 8.84
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7216667,
+          35.8936667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:31:10.380000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 9.39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4853333,
+          35.6596667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:31:24.540000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 5.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6978333,
+          35.8883333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:31:48.760000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.97,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 8.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7121667,
+          35.8901667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:31:58.270000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.86,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 6.29
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7263333,
+          35.8981667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:32:25.640000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.61,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 10.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4145,
+          35.5985
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:32:29.440000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.68,
+        "place": "19km S of Trona, CA",
+        "depth_km": 6.69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7303333,
+          35.8903333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:32:46.660000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.17,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 6.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7163333,
+          35.9025
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:33:03.660000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.9,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 8.47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4861667,
+          35.624
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:33:20.200000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.08,
+        "place": "17km E of Ridgecrest, CA",
+        "depth_km": 10.99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7238333,
+          35.8933333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:33:39.100000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.8,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 9.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5613333,
+          35.726
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:33:39.450000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.01,
+        "place": "15km WSW of Searles Valley, CA",
+        "depth_km": 11.09
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.699,
+          35.8723333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:33:55.940000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 11.58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5875,
+          35.7661667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:34:21.530000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.63,
+        "place": "17km W of Searles Valley, CA",
+        "depth_km": 1.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6573333,
+          35.9058333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:34:42.840000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.74,
+        "place": "23km E of Little Lake, CA",
+        "depth_km": 9.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3961667,
+          35.5806667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:34:55.980000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "20km S of Trona, CA",
+        "depth_km": 13.22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4668333,
+          35.6521667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:35:05.420000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.09,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 1.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7576667,
+          35.979
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:35:30.660000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.67,
+        "place": "14km ENE of Little Lake, CA",
+        "depth_km": 6.52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7338333,
+          35.9028333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:36:16.460000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.35,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 7.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5445,
+          35.6625
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:36:28.480000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.85,
+        "place": "13km ENE of Ridgecrest, CA",
+        "depth_km": 3.18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5268333,
+          35.7326667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:37:05.160000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.63,
+        "place": "12km WSW of Searles Valley, CA",
+        "depth_km": 2.63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7013333,
+          35.8718333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:37:25.270000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 6.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7123333,
+          35.9128333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:38:22.930000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.79,
+        "place": "18km E of Little Lake, CA",
+        "depth_km": 6.7
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5515,
+          35.7166667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:39:02.720000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.69,
+        "place": "14km WSW of Searles Valley, CA",
+        "depth_km": 10.52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.433,
+          35.6136667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:39:14.680000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.84,
+        "place": "17km S of Searles Valley, CA",
+        "depth_km": 9.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7426667,
+          35.9021667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:39:34.110000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.74,
+        "place": "15km ESE of Little Lake, CA",
+        "depth_km": 8.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.703,
+          35.9133333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:40:04.140000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.65,
+        "place": "18km E of Little Lake, CA",
+        "depth_km": 7.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.722,
+          35.8923333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:41:38.650000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 7.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.73,
+          35.8751667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:42:09.680000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 6.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6848333,
+          35.866
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:42:45.760000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "22km ESE of Little Lake, CA",
+        "depth_km": 4.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7016667,
+          35.878
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:42:52.530000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.86,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 4.58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6938333,
+          35.8865
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:43:09.040000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.85,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 9.46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7276667,
+          35.9135
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:44:01.600000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.86,
+        "place": "16km E of Little Lake, CA",
+        "depth_km": 6.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5935,
+          35.7821667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:44:10.780000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "17km W of Searles Valley, CA",
+        "depth_km": 11.22
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6941667,
+          35.9058333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:44:17.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.96,
+        "place": "19km E of Little Lake, CA",
+        "depth_km": 6.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5063333,
+          35.7036667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:45:54.830000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 11.11
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4703333,
+          35.6805
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:46:26.870000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.26,
+        "place": "11km SSW of Searles Valley, CA",
+        "depth_km": 6.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.45,
+          35.6573333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:46:38.500000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.72,
+        "place": "13km SSW of Searles Valley, CA",
+        "depth_km": 2.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7436667,
+          35.902
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:47:00.080000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "15km ESE of Little Lake, CA",
+        "depth_km": 8.46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7495,
+          35.9011667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:47:53.420000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 5.5,
+        "place": "15km ESE of Little Lake, CA",
+        "depth_km": 5.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7486667,
+          35.9013333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:48:14.550000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.8,
+        "place": "15km ESE of Little Lake, CA",
+        "depth_km": 7.58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.69,
+          35.9025
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:48:24.660000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "20km E of Little Lake, CA",
+        "depth_km": 0.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7353333,
+          35.9108333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:48:36.260000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "16km E of Little Lake, CA",
+        "depth_km": 7.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7223333,
+          35.9998333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:48:54.220000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "18km ENE of Little Lake, CA",
+        "depth_km": 9.53
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7236667,
+          35.9058333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:48:57.740000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.68,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 6.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3851667,
+          35.5571667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:49:24.980000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.78,
+        "place": "23km S of Trona, CA",
+        "depth_km": 3.51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6841667,
+          35.8261667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:49:52.420000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.83,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 7.08
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4436667,
+          35.6163333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:50:04.740000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.67,
+        "place": "17km SSW of Searles Valley, CA",
+        "depth_km": 7.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7248333,
+          35.9036667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:50:11.070000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.79,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 6.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.739,
+          35.9101667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:50:49.350000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.79,
+        "place": "15km E of Little Lake, CA",
+        "depth_km": 10.71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7001667,
+          35.9035
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:50:59.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.97,
+        "place": "19km E of Little Lake, CA",
+        "depth_km": 8.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6741667,
+          35.9373333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:51:20.330000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.76,
+        "place": "21km E of Little Lake, CA",
+        "depth_km": 9.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6963333,
+          35.8996667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:52:03.730000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 9.69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4073333,
+          35.5768333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:52:54.840000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "21km S of Trona, CA",
+        "depth_km": 3.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7415,
+          35.9273333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:52:59.340000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.69,
+        "place": "15km E of Little Lake, CA",
+        "depth_km": 6.24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7106667,
+          35.8696667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:53:40.290000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.68,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 5.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6808333,
+          35.9025
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:53:57.980000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.67,
+        "place": "21km E of Little Lake, CA",
+        "depth_km": 8.09
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5856667,
+          35.78
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:54:46.840000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "16km W of Searles Valley, CA",
+        "depth_km": 10.44
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6875,
+          35.9055
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:55:20.020000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.06,
+        "place": "20km E of Little Lake, CA",
+        "depth_km": 8.43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7361667,
+          35.918
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:56:33.520000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "16km E of Little Lake, CA",
+        "depth_km": 6.52
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6995,
+          35.8908333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:57:37.970000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.59,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 4.57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6613333,
+          35.869
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:57:50.900000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.31,
+        "place": "23km ESE of Little Lake, CA",
+        "depth_km": 7.21
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7141667,
+          35.8751667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T03:59:48.610000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 4.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4866667,
+          35.6578333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:05:27.720000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 1.93
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7088333,
+          35.917
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:05:49.900000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.9,
+        "place": "18km E of Little Lake, CA",
+        "depth_km": 2.34
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3738333,
+          35.578
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:06:14.580000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.79,
+        "place": "21km S of Trona, CA",
+        "depth_km": 5.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5215,
+          35.5551667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:07:04.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.68,
+        "place": "16km ESE of Ridgecrest, CA",
+        "depth_km": 5.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6946667,
+          35.8646667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:07:15.800000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.74,
+        "place": "21km ESE of Little Lake, CA",
+        "depth_km": 2.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7176667,
+          35.9103333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:07:37.930000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "17km E of Little Lake, CA",
+        "depth_km": 4.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5806667,
+          35.7778333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:10:49.060000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.69,
+        "place": "16km W of Searles Valley, CA",
+        "depth_km": 10.58
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7138333,
+          35.8768333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:10:58.090000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 9.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6926667,
+          35.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:11:02.280000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.83,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 6.48
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4798333,
+          35.659
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:12:13.840000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.86,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 6.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7228333,
+          35.8873333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:12:18.850000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.87,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 9.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6408333,
+          35.841
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:12:44.170000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "23km WNW of Searles Valley, CA",
+        "depth_km": 10.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6893333,
+          35.9091667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:13:06.130000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.63,
+        "place": "20km E of Little Lake, CA",
+        "depth_km": 8.39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6145,
+          35.5846667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:13:07.080000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.8,
+        "place": "7km SE of Ridgecrest, CA",
+        "depth_km": 9.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7268333,
+          35.891
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:13:30.590000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 10.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4026667,
+          35.6041667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:14:20.800000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.84,
+        "place": "18km S of Trona, CA",
+        "depth_km": 6.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4906667,
+          35.6795
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:14:31.370000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.74,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 0.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6715,
+          35.8248333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:16:17.230000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 8.56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.66,
+          35.824
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:16:48.800000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.58,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 5.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5381667,
+          35.694
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:18:36.030000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.63,
+        "place": "15km SW of Searles Valley, CA",
+        "depth_km": 8.39
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6848333,
+          35.9101667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:18:55.790000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 5.44,
+        "place": "20km E of Little Lake, CA",
+        "depth_km": 7.41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6175,
+          35.785
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:19:15.480000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.29,
+        "place": "19km NNE of Ridgecrest, CA",
+        "depth_km": 10.63
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.717,
+          35.885
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:19:54.940000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.83,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 4.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4041667,
+          35.5808333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:19:56.010000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.01,
+        "place": "20km S of Trona, CA",
+        "depth_km": 5.18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.71,
+          35.8981667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:20:06.180000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 10.24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7088333,
+          35.9246667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:20:28.200000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.68,
+        "place": "18km E of Little Lake, CA",
+        "depth_km": 2.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7,
+          35.8735
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:20:46.910000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 3.16
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6243333,
+          35.7971667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:21:00.220000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "20km NNE of Ridgecrest, CA",
+        "depth_km": 8.47
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6121667,
+          35.7786667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:21:35.820000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.17,
+        "place": "18km NNE of Ridgecrest, CA",
+        "depth_km": 2.59
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5548333,
+          35.7166667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:21:53.760000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "15km WSW of Searles Valley, CA",
+        "depth_km": 6.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6911667,
+          35.8611667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:22:16.200000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.64,
+        "place": "21km ESE of Little Lake, CA",
+        "depth_km": 7.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6995,
+          35.8976667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:24:40.670000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.65,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 7.41
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.549,
+          35.6741667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:24:43.320000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.67,
+        "place": "13km ENE of Ridgecrest, CA",
+        "depth_km": 7.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7131667,
+          35.8871667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:27:10.340000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.59,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 5.98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7261667,
+          35.8821667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:28:09.260000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 3.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6306667,
+          35.7955
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:29:02.200000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "20km NNE of Ridgecrest, CA",
+        "depth_km": 2.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6601667,
+          35.8408333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:31:05.250000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.54,
+        "place": "24km N of Ridgecrest, CA",
+        "depth_km": 4.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3958333,
+          35.5656667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:31:19.460000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.75,
+        "place": "22km S of Trona, CA",
+        "depth_km": 3.36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6625,
+          35.8285
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:33:50.060000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.61,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 2.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7398333,
+          35.8965
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:34:11.150000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 7.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7066667,
+          35.8688333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:36:50.230000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.8,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 2.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7376667,
+          35.9
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:36:55.310000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.85,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7453333,
+          35.91
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:37:13.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.33,
+        "place": "15km ESE of Little Lake, CA",
+        "depth_km": 8.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.434,
+          35.6326667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:38:08.610000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.59,
+        "place": "15km S of Searles Valley, CA",
+        "depth_km": 6.26
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4456667,
+          35.6428333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:40:15.980000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.24,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 2.88
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7248333,
+          35.8993333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:41:03.050000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.61,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 5.62
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7241667,
+          35.9051667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:45:36.470000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.56,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 4.51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7301667,
+          35.8815
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:49:42.550000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.71,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 8.06
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6133333,
+          35.7906667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:50:04.100000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.68,
+        "place": "19km W of Searles Valley, CA",
+        "depth_km": 7.19
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7288333,
+          35.892
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:50:11.880000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 5.64
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.732,
+          35.896
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:50:16.120000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.72,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 7.18
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7323333,
+          35.8895
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:52:04.010000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.54,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 5.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6945,
+          35.8773333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:52:17.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.47,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 3.32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7353333,
+          35.8966667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:53:03.960000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.54,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 6.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6595,
+          35.875
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:53:41.990000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "23km ESE of Little Lake, CA",
+        "depth_km": 6.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5275,
+          35.5921667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:53:45.340000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.66,
+        "place": "14km ESE of Ridgecrest, CA",
+        "depth_km": 9.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5706667,
+          35.7073333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T04:58:36.690000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.03,
+        "place": "14km NE of Ridgecrest, CA",
+        "depth_km": 2.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7126667,
+          35.8925
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:03:07.180000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 2.43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6948333,
+          35.8793333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:04:19.720000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.63,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 7.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6978333,
+          35.8806667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:04:23.380000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.61,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 5.67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5636667,
+          35.717
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:08:11.260000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.67,
+        "place": "15km NE of Ridgecrest, CA",
+        "depth_km": 7.99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7218333,
+          35.8918333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:10:09.260000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 4.02
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6608333,
+          35.8755
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:13:14.990000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.97,
+        "place": "23km ESE of Little Lake, CA",
+        "depth_km": 7.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7448333,
+          35.9128333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:15:37.240000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "15km E of Little Lake, CA",
+        "depth_km": 8.56
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6775,
+          35.833
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:25:04.870000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.29,
+        "place": "24km N of Ridgecrest, CA",
+        "depth_km": 3.43
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.561,
+          35.7331667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:25:36.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "15km WSW of Searles Valley, CA",
+        "depth_km": 6.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6796667,
+          35.8441667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:32:59.940000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.61,
+        "place": "23km ESE of Little Lake, CA",
+        "depth_km": 7.73
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6041667,
+          35.7838333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:41:32.240000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.56,
+        "place": "18km W of Searles Valley, CA",
+        "depth_km": 2.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.419,
+          35.5586667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:41:36.030000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.66,
+        "place": "23km S of Trona, CA",
+        "depth_km": 8.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5573333,
+          35.7771667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:41:48.390000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.78,
+        "place": "14km W of Searles Valley, CA",
+        "depth_km": 10.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.403,
+          35.6058333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:52:05.350000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "18km S of Trona, CA",
+        "depth_km": 5.35
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6916667,
+          35.9323333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:58:17.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.15,
+        "place": "19km E of Little Lake, CA",
+        "depth_km": 1.86
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.574,
+          35.7376667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T05:59:44.190000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "16km WSW of Searles Valley, CA",
+        "depth_km": 3.12
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3465,
+          35.5535
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:00:57.770000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "24km S of Trona, CA",
+        "depth_km": 4.31
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7385,
+          35.911
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:01:51.800000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.63,
+        "place": "15km E of Little Lake, CA",
+        "depth_km": 4.99
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3635,
+          35.5771667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:07:08.680000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "21km S of Trona, CA",
+        "depth_km": 3.81
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3751667,
+          35.5813333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:12:52+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.27,
+        "place": "20km S of Trona, CA",
+        "depth_km": 5.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.684,
+          35.9191667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:18:11.250000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "20km E of Little Lake, CA",
+        "depth_km": 8.98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6868333,
+          35.8785
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:31:00.730000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.72,
+        "place": "21km ESE of Little Lake, CA",
+        "depth_km": 4.3
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7226667,
+          35.8893333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:31:55.320000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 4.65
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7248333,
+          35.8926667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:34:47.410000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.05,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 8.17
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6378333,
+          35.8041667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:41:15.060000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.9,
+        "place": "21km N of Ridgecrest, CA",
+        "depth_km": 7.51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6466667,
+          35.8661667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:47:10.840000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "24km WNW of Searles Valley, CA",
+        "depth_km": 6.77
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3983333,
+          35.5601667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T06:52:25.970000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.77,
+        "place": "23km S of Trona, CA",
+        "depth_km": 3.76
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7315,
+          35.89
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T07:04:42.040000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.88,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 4.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7306667,
+          35.8891667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T07:05:21.030000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.56,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 5.96
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.748,
+          35.9243333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T07:16:03.150000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.75,
+        "place": "14km E of Little Lake, CA",
+        "depth_km": 2.33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.505,
+          35.7043333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T07:31:14.490000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 2.01
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.729,
+          35.8848333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T07:52:24.520000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.73,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 5.54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5576667,
+          35.7051667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T07:54:46.580000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.87,
+        "place": "14km NE of Ridgecrest, CA",
+        "depth_km": 8.49
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.475,
+          35.6746667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T07:56:03.660000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "12km SSW of Searles Valley, CA",
+        "depth_km": 2.0
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7191667,
+          35.9135
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T08:10:50.100000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "17km E of Little Lake, CA",
+        "depth_km": 2.67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7306667,
+          35.8965
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T08:26:52.560000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.53,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 4.98
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4105,
+          35.6318333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T08:28:33.770000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.59,
+        "place": "15km S of Trona, CA",
+        "depth_km": 3.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4913333,
+          35.639
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T08:32:57.550000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.56,
+        "place": "16km SSW of Searles Valley, CA",
+        "depth_km": 3.14
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3878333,
+          35.6021667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T08:59:55.720000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "18km S of Trona, CA",
+        "depth_km": 6.72
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3855,
+          35.5498333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T08:59:57.510000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.96,
+        "place": "24km S of Trona, CA",
+        "depth_km": 3.71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.641,
+          35.8015
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:24:23.070000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.59,
+        "place": "20km N of Ridgecrest, CA",
+        "depth_km": 1.2
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5836667,
+          35.6183333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:27:08.460000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "8km E of Ridgecrest, CA",
+        "depth_km": 10.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7271667,
+          35.898
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:28:28.980000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.89,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 3.95
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7168333,
+          35.887
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:28:41.790000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.24,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 4.78
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7175,
+          35.8811667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:29:20.970000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.41,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 5.5
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7323333,
+          35.9098333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:30:41.240000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.49,
+        "place": "16km E of Little Lake, CA",
+        "depth_km": 4.15
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7235,
+          35.8953333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:33:59.740000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "17km ESE of Little Lake, CA",
+        "depth_km": 4.91
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7133333,
+          35.8871667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:34:27.830000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "18km ESE of Little Lake, CA",
+        "depth_km": 7.69
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7105,
+          35.883
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T09:59:26.600000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.75,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 7.28
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5176667,
+          35.5755
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T10:09:18.110000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "15km ESE of Ridgecrest, CA",
+        "depth_km": 10.36
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4546667,
+          35.6486667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T10:31:43.930000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 3.97
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3528333,
+          35.5745
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T10:37:27.560000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.82,
+        "place": "21km S of Trona, CA",
+        "depth_km": 2.85
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.372,
+          35.5785
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T10:48:24.460000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.04,
+        "place": "21km S of Trona, CA",
+        "depth_km": 5.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.621,
+          35.7948333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T11:06:43.350000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.84,
+        "place": "20km W of Searles Valley, CA",
+        "depth_km": 4.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4656667,
+          35.646
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T11:15:20.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.68,
+        "place": "15km SSW of Searles Valley, CA",
+        "depth_km": -0.13
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7336667,
+          35.8953333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T11:53:08.090000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.12,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 2.1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6605,
+          35.824
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T12:05:00.770000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.57,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 6.32
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.705,
+          35.9283333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T13:06:55.260000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "18km E of Little Lake, CA",
+        "depth_km": 2.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4873333,
+          35.6761667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T13:32:59.500000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.65,
+        "place": "13km SW of Searles Valley, CA",
+        "depth_km": 1.6
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4755,
+          35.6163333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T13:43:18.740000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.64,
+        "place": "18km SSW of Searles Valley, CA",
+        "depth_km": 8.8
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.705,
+          35.868
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T13:55:51.090000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.54,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 7.89
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.827,
+          36.0993333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T15:45:46.040000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.58,
+        "place": "12km ENE of Coso Junction, CA",
+        "depth_km": 2.51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6976667,
+          35.877
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T15:59:29.290000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "20km ESE of Little Lake, CA",
+        "depth_km": 2.33
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.523,
+          35.5705
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T16:36:05.820000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.14,
+        "place": "15km ESE of Ridgecrest, CA",
+        "depth_km": 10.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7121667,
+          35.879
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T16:42:05.120000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 4.55
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7168333,
+          35.8716667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T17:41:33.190000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.98,
+        "place": "19km ESE of Little Lake, CA",
+        "depth_km": 7.74
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7295,
+          35.9021667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T17:59:14.790000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.96,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 4.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.3256667,
+          35.448
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T18:19:39.620000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "29km ENE of Johannesburg, CA",
+        "depth_km": 4.54
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7383333,
+          35.907
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T18:36:49.990000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.72,
+        "place": "16km ESE of Little Lake, CA",
+        "depth_km": 2.87
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4648333,
+          35.6541667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T18:46:26.040000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.87,
+        "place": "14km SSW of Searles Valley, CA",
+        "depth_km": 1.9
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5133333,
+          35.692
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T20:41:30.750000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "13km SW of Searles Valley, CA",
+        "depth_km": 2.71
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6026667,
+          35.7206667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T21:05:24.590000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.51,
+        "place": "13km NNE of Ridgecrest, CA",
+        "depth_km": 10.82
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5083333,
+          35.7003333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T23:21:34.140000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.71,
+        "place": "12km SW of Searles Valley, CA",
+        "depth_km": 9.09
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.663,
+          35.8235
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-06T23:50:41.990000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.5,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 6.51
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.516,
+          35.6695
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T01:05:07.130000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.55,
+        "place": "15km SW of Searles Valley, CA",
+        "depth_km": 5.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5621667,
+          35.7601667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T02:06:04.700000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "14km W of Searles Valley, CA",
+        "depth_km": 10.75
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4668333,
+          35.6035
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T02:17:01.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.64,
+        "place": "19km E of Ridgecrest, CA",
+        "depth_km": 2.83
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5956667,
+          35.749
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T03:13:12.460000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.62,
+        "place": "16km NNE of Ridgecrest, CA",
+        "depth_km": 10.05
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.5781667,
+          35.7683333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T05:38:15.480000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.53,
+        "place": "16km W of Searles Valley, CA",
+        "depth_km": 10.45
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.524,
+          35.6661667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T06:07:06.460000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "15km ENE of Ridgecrest, CA",
+        "depth_km": 9.04
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4385,
+          35.6165
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T07:09:38.840000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "17km S of Searles Valley, CA",
+        "depth_km": 3.27
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.8508333,
+          36.086
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T08:03:25.610000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.68,
+        "place": "10km ENE of Coso Junction, CA",
+        "depth_km": 1.24
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7033333,
+          35.9311667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T09:10:01.710000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.5,
+        "place": "18km E of Little Lake, CA",
+        "depth_km": 2.57
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.594,
+          35.8056667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T11:22:16.240000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 4.16,
+        "place": "18km WNW of Searles Valley, CA",
+        "depth_km": 10.06
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7108333,
+          35.9136667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T14:46:40.570000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.6,
+        "place": "18km E of Little Lake, CA",
+        "depth_km": 2.37
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6583333,
+          35.8225
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T15:48:11.730000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.56,
+        "place": "22km N of Ridgecrest, CA",
+        "depth_km": 6.67
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4283333,
+          35.5976667
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T18:50:02.290000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.59,
+        "place": "19km S of Searles Valley, CA",
+        "depth_km": 6.07
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6898333,
+          35.9458333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T21:15:29.660000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.79,
+        "place": "20km E of Little Lake, CA",
+        "depth_km": 2.42
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.529,
+          35.683
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T22:33:21.390000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.52,
+        "place": "15km SW of Searles Valley, CA",
+        "depth_km": 1.46
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.6685,
+          35.8303333
+        ]
+      },
+      "properties": {
+        "timestamp": "2019-07-07T23:36:56.940000+00:00",
+        "label": "2019 Ridgecrest Earthquake Sequence",
+        "magnitude": 3.93,
+        "place": "23km N of Ridgecrest, CA",
+        "depth_km": 4.97
+      }
+    }
+  ]
+}
