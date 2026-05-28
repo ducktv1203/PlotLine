@@ -3,7 +3,7 @@
  * Phase 0 placeholder shell only. Will be wired to a backend SSE/WebSocket
  * channel for live ingestion + spatial event traces.
  */
-export default function TerminalStream(): JSX.Element {
+export default function TerminalStream() {
   return (
     <div className="flex h-full flex-col bg-base">
       <header className="flex items-center justify-between border-b border-tactical-cyan/30 px-3 py-2 text-[10px] uppercase tracking-[0.2em] text-tactical-cyan/70">

@@ -7,7 +7,7 @@ import TerminalStream from "@/components/TerminalStream";
  *   - Left  (flex-1):           full-bleed map canvas + timeline scrubber overlay
  *   - Right (w-[360px]):        monospace terminal stream sidebar
  */
-export default function App(): JSX.Element {
+export default function App() {
   return (
     <div className="flex h-screen w-screen overflow-hidden bg-base text-tactical-cyan">
       <section className="relative flex-1 border-r border-tactical-cyan/30">
