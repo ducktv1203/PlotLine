@@ -1,23 +1,14 @@
-"""API router skeleton.
+"""Top-level API router.
 
-Placeholder endpoints for the two principal capability surfaces:
-  - ingestion  (CSV / custom GeoJSON timeline upload)
-  - spatial    (intersections, path resolution, temporal range queries)
-
-No handlers are implemented in Phase 0.
+Mounts the sub-routers exposed by this package. As capability surfaces
+grow (spatial queries, exports, ...) add their routers here.
 """
 from __future__ import annotations
 
 from fastapi import APIRouter
 
+from app.api.ingest import router as ingest_router
+
+
 router = APIRouter()
-
-
-@router.post("/ingest", tags=["ingestion"])
-async def ingest_placeholder() -> dict[str, str]:
-    return {"status": "not_implemented"}
-
-
-@router.get("/spatial/query", tags=["spatial"])
-async def spatial_query_placeholder() -> dict[str, str]:
-    return {"status": "not_implemented"}
+router.include_router(ingest_router)
