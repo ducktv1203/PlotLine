@@ -3,16 +3,29 @@
 Uses pydantic-settings v2 so values are validated and typed at import time.
 The DSN is derived lazily from the discrete POSTGRES_* variables so deployment
 secrets can be rotated without changing application code.
+
+The .env file is resolved as an absolute path relative to this file so the
+config works regardless of where Python is invoked from (alembic from
+backend/, uvicorn from repo root, pytest from backend/, ...).
 """
 from __future__ import annotations
+
+from pathlib import Path
 
 from pydantic import Field, PostgresDsn, computed_field
 from pydantic_settings import BaseSettings, SettingsConfigDict
 
 
+# backend/app/core/config.py -> repo root is three levels up.
+_PROJECT_ROOT = Path(__file__).resolve().parents[3]
+_ROOT_ENV = _PROJECT_ROOT / ".env"
+_BACKEND_ENV = _PROJECT_ROOT / "backend" / ".env"
+
+
 class Settings(BaseSettings):
     model_config = SettingsConfigDict(
-        env_file=".env",
+        # Later files override earlier ones; backend-local .env wins last.
+        env_file=(_ROOT_ENV, _BACKEND_ENV),
         env_file_encoding="utf-8",
         case_sensitive=True,
         extra="ignore",

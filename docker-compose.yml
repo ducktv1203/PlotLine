@@ -1,0 +1,26 @@
+services:
+  db:
+    image: postgis/postgis:16-3.4
+    container_name: plotline-db
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-plotline_admin}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-secure_dev_pass_2026}
+      POSTGRES_DB: ${POSTGRES_DB:-plotline_db}
+    ports:
+      # Host port 5433 avoids conflicts with any pre-installed host Postgres
+      # on 5432. Container-internal port stays 5432.
+      - "${POSTGRES_PORT:-5433}:5432"
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test:
+        - CMD-SHELL
+        - pg_isready -U "$${POSTGRES_USER}" -d "$${POSTGRES_DB}"
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  postgres_data:
+    name: plotline_postgres_data
