@@ -26,6 +26,48 @@ export async function fetchTrack(trackId: number): Promise<TrackResponse> {
   return (await res.json()) as TrackResponse;
 }
 
+export interface TrackSummary {
+  readonly id: number;
+  readonly label: string;
+  readonly source_format: string;
+}
+
+export async function listTracks(): Promise<TrackSummary[]> {
+  const res = await fetch(`${API_BASE_URL}/tracks`);
+  if (!res.ok) throw new Error(`listTracks failed: ${res.status}`);
+  return (await res.json()) as TrackSummary[];
+}
+
+export interface Intersection {
+  readonly track_a: number;
+  readonly track_b: number;
+  readonly lon: number;
+  readonly lat: number;
+  readonly t_a: string;
+  readonly t_b: string;
+  readonly distance_m: number;
+  readonly delta_s: number;
+}
+
+export interface IntersectionsResponse {
+  readonly intersections: ReadonlyArray<Intersection>;
+  readonly count: number;
+}
+
+export async function fetchIntersections(
+  trackIds: ReadonlyArray<number>,
+  toleranceM = 50,
+  toleranceS = 300,
+): Promise<IntersectionsResponse> {
+  const params = new URLSearchParams();
+  trackIds.forEach((id) => params.append("track_ids", String(id)));
+  params.set("tolerance_m", String(toleranceM));
+  params.set("tolerance_s", String(toleranceS));
+  const res = await fetch(`${API_BASE_URL}/spatial/intersections?${params}`);
+  if (!res.ok) throw new Error(`fetchIntersections failed: ${res.status}`);
+  return (await res.json()) as IntersectionsResponse;
+}
+
 export interface IngestResponse {
   readonly track_id: number;
   readonly point_count: number;
