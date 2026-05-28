@@ -1,6 +1,7 @@
 import { useCallback, useMemo, useState } from "react";
 
 import BootSequence from "@/components/BootSequence";
+import CasePanel from "@/components/CasePanel";
 import DropZone from "@/components/DropZone";
 import MapCanvas from "@/components/MapCanvas";
 import TimeSlider from "@/components/TimeSlider";
@@ -8,10 +9,11 @@ import TerminalStream from "@/components/TerminalStream";
 import TrackList from "@/components/TrackList";
 import { useHotkeys } from "@/hooks/useHotkeys";
 import { useTimeline } from "@/hooks/useTimeline";
-import { ingestGeoJSON } from "@/lib/api";
+import { createCase, ingestGeoJSON } from "@/lib/api";
 
 export default function App() {
   const [visibleIds, setVisibleIds] = useState<ReadonlyArray<number>>([]);
+  const [activeCaseId, setActiveCaseId] = useState<number | null>(null);
   const [trackListVersion, setTrackListVersion] = useState(0);
   const [boot, setBoot] = useState(true);
   const timeline = useTimeline();
@@ -37,6 +39,19 @@ export default function App() {
     );
   }, []);
 
+  const handleOpenCase = useCallback(
+    (caseId: number, trackIds: ReadonlyArray<number>) => {
+      setActiveCaseId(caseId);
+      setVisibleIds(trackIds);
+    },
+    [],
+  );
+
+  const handleCloseCase = useCallback(() => {
+    setActiveCaseId(null);
+    setVisibleIds([]);
+  }, []);
+
   const loadDemo = useCallback(async () => {
     try {
       const manifestRes = await fetch("/demo/index.json");
@@ -47,10 +62,21 @@ export default function App() {
         label: string;
         points: number;
       }>;
+      const trackIds: number[] = [];
       for (const entry of manifest) {
         const fc = await (await fetch(`/demo/${entry.file}`)).json();
         const ingested = await ingestGeoJSON(entry.label, fc);
+        trackIds.push(ingested.track_id);
         handleIngested(ingested.track_id);
+      }
+      // Wrap them all in a named case for easy re-open.
+      if (trackIds.length > 0) {
+        const created = await createCase(
+          `Atlantic Hurricanes — ${new Date().toISOString().slice(0, 16)}`,
+          trackIds,
+          "Auto-generated from NOAA HURDAT2",
+        );
+        setActiveCaseId(created.id);
       }
     } catch (e) {
       console.error("loadDemo failed", e);
@@ -95,7 +121,15 @@ export default function App() {
           onTracksBounds={handleTracksBounds}
         />
         <DropZone onIngested={handleIngested} />
-        <div className="pointer-events-none absolute top-3 left-3">
+        <div className="pointer-events-none absolute top-3 left-3 space-y-2">
+          <div className="pointer-events-auto">
+            <CasePanel
+              activeCaseId={activeCaseId}
+              onOpen={handleOpenCase}
+              onClose={handleCloseCase}
+              visibleTrackIds={visibleIds}
+            />
+          </div>
           <div className="pointer-events-auto">
             <TrackList
               key={trackListVersion}
