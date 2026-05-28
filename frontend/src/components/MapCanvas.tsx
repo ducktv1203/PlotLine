@@ -5,14 +5,21 @@ import { buildTrackLayers } from "@/lib/layers";
 import { createMap, type MapHandle } from "@/lib/map";
 
 interface MapCanvasProps {
-  /** Track id to fetch and display. If undefined, renders an empty map. */
   readonly trackId?: number;
+  /** Epoch ms — when set, the scatter layer is filtered to this playhead. */
+  readonly playheadMs?: number;
+  /** Called once with [startMs, endMs] when a track loads. */
+  readonly onTrackBounds?: (startMs: number, endMs: number) => void;
 }
 
-export default function MapCanvas({ trackId }: MapCanvasProps) {
+export default function MapCanvas({
+  trackId,
+  playheadMs,
+  onTrackBounds,
+}: MapCanvasProps) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const handleRef = useRef<MapHandle | null>(null);
-  const [track, setTrack] = useState<TrackResponse | null>(null);
+  const trackRef = useRef<TrackResponse | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   // Mount the map once.
@@ -29,15 +36,40 @@ export default function MapCanvas({ trackId }: MapCanvasProps) {
   // Load the track when the id changes.
   useEffect(() => {
     if (trackId === undefined) {
-      setTrack(null);
+      trackRef.current = null;
+      handleRef.current?.setLayers([]);
       return;
     }
     let cancelled = false;
     fetchTrack(trackId)
       .then((t) => {
-        if (!cancelled) {
-          setTrack(t);
-          setError(null);
+        if (cancelled) return;
+        trackRef.current = t;
+        setError(null);
+
+        if (t.features.length > 0 && onTrackBounds) {
+          const tss = t.features.map((f) =>
+            Date.parse(f.properties.timestamp),
+          );
+          onTrackBounds(Math.min(...tss), Math.max(...tss));
+        }
+
+        // Initial render.
+        handleRef.current?.setLayers(
+          buildTrackLayers(t, { trackId: t.track.id, playheadMs }),
+        );
+
+        // Fly to fit bounds.
+        if (t.features.length > 0 && handleRef.current) {
+          const lons = t.features.map((f) => f.geometry.coordinates[0]);
+          const lats = t.features.map((f) => f.geometry.coordinates[1]);
+          handleRef.current.map.fitBounds(
+            [
+              [Math.min(...lons), Math.min(...lats)],
+              [Math.max(...lons), Math.max(...lats)],
+            ],
+            { padding: 80, duration: 800 },
+          );
         }
       })
       .catch((e: unknown) => {
@@ -46,31 +78,19 @@ export default function MapCanvas({ trackId }: MapCanvasProps) {
     return () => {
       cancelled = true;
     };
-  }, [trackId]);
+    // playheadMs intentionally excluded: it's pushed via the next effect.
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [trackId, onTrackBounds]);
 
-  // Push layers to the map whenever the loaded track changes.
+  // Push playhead updates without rebuilding the whole effect chain.
   useEffect(() => {
     const handle = handleRef.current;
-    if (!handle || !track) {
-      handle?.setLayers([]);
-      return;
-    }
-    const layers = buildTrackLayers(track, { trackId: track.track.id });
-    handle.setLayers(layers);
-
-    // Fly to fit the track's bounds.
-    if (track.features.length > 0) {
-      const lons = track.features.map((f) => f.geometry.coordinates[0]);
-      const lats = track.features.map((f) => f.geometry.coordinates[1]);
-      handle.map.fitBounds(
-        [
-          [Math.min(...lons), Math.min(...lats)],
-          [Math.max(...lons), Math.max(...lats)],
-        ],
-        { padding: 80, duration: 800 },
-      );
-    }
-  }, [track]);
+    const track = trackRef.current;
+    if (!handle || !track) return;
+    handle.setLayers(
+      buildTrackLayers(track, { trackId: track.track.id, playheadMs }),
+    );
+  }, [playheadMs]);
 
   return (
     <div className="relative h-full w-full">

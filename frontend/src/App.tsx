@@ -1,22 +1,33 @@
-import { useState } from "react";
+import { useCallback, useState } from "react";
 
 import MapCanvas from "@/components/MapCanvas";
 import TimeSlider from "@/components/TimeSlider";
 import TerminalStream from "@/components/TerminalStream";
 import TrackPicker from "@/components/TrackPicker";
+import { useTimeline } from "@/hooks/useTimeline";
 
-/**
- * Top-level situation-room layout:
- *   - Left  (flex-1):           full-bleed map canvas + timeline scrubber overlay
- *   - Right (w-[360px]):        monospace terminal stream sidebar
- */
 export default function App() {
   const [trackId, setTrackId] = useState<number | undefined>(undefined);
+  const timeline = useTimeline();
+  const { setRange } = timeline;
+
+  const handleTrackBounds = useCallback(
+    (startMs: number, endMs: number) => {
+      setRange(startMs, endMs);
+    },
+    [setRange],
+  );
 
   return (
     <div className="flex h-screen w-screen overflow-hidden bg-base text-tactical-cyan">
       <section className="relative flex-1 border-r border-tactical-cyan/30">
-        <MapCanvas trackId={trackId} />
+        <MapCanvas
+          trackId={trackId}
+          playheadMs={
+            timeline.state.endMs > 0 ? timeline.state.playheadMs : undefined
+          }
+          onTrackBounds={handleTrackBounds}
+        />
         <div className="pointer-events-none absolute top-3 left-3">
           <div className="pointer-events-auto">
             <TrackPicker value={trackId} onChange={setTrackId} />
@@ -24,7 +35,7 @@ export default function App() {
         </div>
         <div className="pointer-events-none absolute inset-x-0 bottom-0 p-4">
           <div className="pointer-events-auto">
-            <TimeSlider />
+            <TimeSlider controller={timeline} />
           </div>
         </div>
       </section>
