@@ -18,6 +18,8 @@ interface CasePanelProps {
   readonly onClose: () => void;
   /** The tracks currently visible — used as the basis for creating a case. */
   readonly visibleTrackIds: ReadonlyArray<number>;
+  /** Increment to force a refetch (e.g., after external case creation). */
+  readonly refreshKey?: number;
 }
 
 export default function CasePanel({
@@ -25,6 +27,7 @@ export default function CasePanel({
   onOpen,
   onClose,
   visibleTrackIds,
+  refreshKey = 0,
 }: CasePanelProps) {
   const [cases, setCases] = useState<CaseSummary[]>([]);
   const [error, setError] = useState<string | null>(null);
@@ -42,7 +45,7 @@ export default function CasePanel({
       );
   };
 
-  useEffect(refresh, []);
+  useEffect(refresh, [refreshKey]);
 
   const handleOpen = async (id: number) => {
     try {

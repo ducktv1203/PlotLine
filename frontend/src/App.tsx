@@ -15,6 +15,7 @@ export default function App() {
   const [visibleIds, setVisibleIds] = useState<ReadonlyArray<number>>([]);
   const [activeCaseId, setActiveCaseId] = useState<number | null>(null);
   const [trackListVersion, setTrackListVersion] = useState(0);
+  const [caseListVersion, setCaseListVersion] = useState(0);
   const [boot, setBoot] = useState(true);
   const timeline = useTimeline();
   const { setRange, setPlayhead, togglePlay, state: tlState } = timeline;
@@ -61,23 +62,38 @@ export default function App() {
         file: string;
         label: string;
         points: number;
+        category?: string;
       }>;
-      const trackIds: number[] = [];
+
+      // Group by category so each category becomes its own case.
+      const byCategory = new Map<string, typeof manifest>();
       for (const entry of manifest) {
-        const fc = await (await fetch(`/demo/${entry.file}`)).json();
-        const ingested = await ingestGeoJSON(entry.label, fc);
-        trackIds.push(ingested.track_id);
-        handleIngested(ingested.track_id);
+        const cat = entry.category ?? "Uncategorized Demo";
+        const bucket = byCategory.get(cat) ?? [];
+        bucket.push(entry);
+        byCategory.set(cat, bucket);
       }
-      // Wrap them all in a named case for easy re-open.
-      if (trackIds.length > 0) {
-        const created = await createCase(
-          `Atlantic Hurricanes — ${new Date().toISOString().slice(0, 16)}`,
-          trackIds,
-          "Auto-generated from NOAA HURDAT2",
-        );
-        setActiveCaseId(created.id);
+
+      let lastCaseId: number | null = null;
+      for (const [category, entries] of byCategory) {
+        const ids: number[] = [];
+        for (const entry of entries) {
+          const fc = await (await fetch(`/demo/${entry.file}`)).json();
+          const ingested = await ingestGeoJSON(entry.label, fc);
+          ids.push(ingested.track_id);
+          handleIngested(ingested.track_id);
+        }
+        if (ids.length > 0) {
+          const created = await createCase(
+            category,
+            ids,
+            "Auto-generated demo data",
+          );
+          lastCaseId = created.id;
+        }
       }
+      if (lastCaseId !== null) setActiveCaseId(lastCaseId);
+      setCaseListVersion((v) => v + 1);
     } catch (e) {
       console.error("loadDemo failed", e);
     }
@@ -128,6 +144,7 @@ export default function App() {
               onOpen={handleOpenCase}
               onClose={handleCloseCase}
               visibleTrackIds={visibleIds}
+              refreshKey={caseListVersion}
             />
           </div>
           <div className="pointer-events-auto">
