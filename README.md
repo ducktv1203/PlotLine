@@ -90,12 +90,29 @@ Or drag a `.geojson` file onto the map in the browser — same path.
 
 | Key      | Action                          |
 |----------|---------------------------------|
-| `d`      | Load the bundled demo track     |
+| `d`      | Load the bundled demo dataset (real OSM public GPS traces) |
 | `space`  | Play / pause the timeline       |
 | `[` / `]`| Step the playhead ±1 minute     |
 | `r`      | Reset the playhead to the start |
 
-Toggle the checkboxes in the top-left **TRACKS** panel to show multiple tracks at once. When two or more tracks are visible, space-time intersections (within 50m and 5min of each other by default) are highlighted as red markers.
+### Cases
+
+A **case** is a named bag of tracks — the unit of investigation. Use the top-left **CASES** panel to:
+
+- Click an existing case to open it (loads its tracks, fits the camera, sets the timeline range)
+- Click the active case again to close it
+- Click `+` to create a new case from whatever tracks are currently visible
+- Hover a case row to reveal its delete button
+
+The **TRACKS** panel below lists every ingested track and lets you toggle individual visibility. When two or more tracks are visible, space-time intersections (within 50m and 5min of each other by default) are highlighted as red markers.
+
+### Bundled demo data
+
+Pressing `d` ingests 16 real anonymous human GPS uploads from OpenStreetMap public contributors across four cities (San Francisco Mission, New York Midtown, London Westminster, Tokyo Shibuya). Each city becomes its own case. Real timestamps, real GPS jitter, no synthesis. Regenerate or extend with:
+
+```bash
+.venv/Scripts/python.exe backend/scripts/build_human_traces.py
+```
 
 ### REST surface
 
@@ -107,6 +124,10 @@ Toggle the checkboxes in the top-left **TRACKS** panel to show multiple tracks a
 | GET    | `/api/v1/tracks/{id}`                               | Fetch full track as a FeatureCollection              |
 | GET    | `/api/v1/tracks/{id}/window?start=&end=`            | Time-windowed slice of a track                       |
 | GET    | `/api/v1/spatial/intersections?track_ids=...&...`   | Space-time intersections across visible tracks       |
+| POST   | `/api/v1/cases`                                     | Create a case with optional initial track ids        |
+| GET    | `/api/v1/cases`                                     | List cases with track counts                         |
+| GET    | `/api/v1/cases/{id}`                                | Get a case with its track ids                        |
+| DELETE | `/api/v1/cases/{id}`                                | Delete a case (tracks survive)                       |
 
 Interactive docs at `http://localhost:8000/docs`.
 
