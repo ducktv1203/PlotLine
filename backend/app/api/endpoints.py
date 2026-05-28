@@ -8,7 +8,9 @@ from __future__ import annotations
 from fastapi import APIRouter
 
 from app.api.ingest import router as ingest_router
+from app.api.spatial import router as spatial_router
 
 
 router = APIRouter()
 router.include_router(ingest_router)
+router.include_router(spatial_router)
