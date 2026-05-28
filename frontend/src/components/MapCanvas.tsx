@@ -10,6 +10,7 @@ import {
   buildIntersectionLayer,
   buildTrackLayers,
   colorForTrack,
+  type Hover,
 } from "@/lib/layers";
 import { createMap, type MapHandle } from "@/lib/map";
 
@@ -31,6 +32,7 @@ export default function MapCanvas({
   const tracksRef = useRef<Map<number, TrackResponse>>(new Map());
   const intersectionsRef = useRef<ReadonlyArray<Intersection>>([]);
   const [error, setError] = useState<string | null>(null);
+  const [hover, setHover] = useState<Hover | null>(null);
 
   // Mount the map once.
   useEffect(() => {
@@ -54,10 +56,11 @@ export default function MapCanvas({
           trackId: id,
           color: colorForTrack(id),
           playheadMs,
+          onHover: setHover,
         }),
       );
     }
-    const overlay = buildIntersectionLayer(intersectionsRef.current);
+    const overlay = buildIntersectionLayer(intersectionsRef.current, setHover);
     if (overlay) layers.push(overlay);
 
     handle.setLayers(layers);
@@ -150,6 +153,50 @@ export default function MapCanvas({
           {error}
         </div>
       )}
+      {hover && <HoverTooltip hover={hover} />}
+    </div>
+  );
+}
+
+function HoverTooltip({ hover }: { hover: Hover }) {
+  // Offset from cursor so the tooltip never sits under the pointer.
+  const style: React.CSSProperties = {
+    left: hover.pixelX + 14,
+    top: hover.pixelY + 14,
+  };
+
+  if (hover.kind === "point") {
+    return (
+      <div
+        className="pointer-events-none absolute z-10 rounded-sm border border-tactical-cyan/60 bg-black/90 px-2 py-1.5 font-mono text-[11px] leading-snug text-tactical-cyan shadow-neon backdrop-blur-sm"
+        style={style}
+      >
+        <div className="text-tactical-cyan/60">
+          track #{hover.trackId}
+        </div>
+        <div>{new Date(hover.timestamp).toISOString().replace("T", " ").slice(0, 19)} UTC</div>
+        <div className="text-tactical-cyan/70">
+          {hover.lat.toFixed(5)}, {hover.lon.toFixed(5)}
+        </div>
+      </div>
+    );
+  }
+
+  // Intersection
+  return (
+    <div
+      className="pointer-events-none absolute z-10 rounded-sm border border-tactical-red/70 bg-black/90 px-2 py-1.5 font-mono text-[11px] leading-snug text-tactical-red shadow-[0_0_8px_rgba(255,0,80,0.4)] backdrop-blur-sm"
+      style={style}
+    >
+      <div className="text-tactical-red/70">
+        intersection
+      </div>
+      <div>
+        #{hover.trackA} × #{hover.trackB}
+      </div>
+      <div className="text-tactical-red/80">
+        {hover.distanceM.toFixed(1)} m · Δt {Math.round(hover.deltaS)} s
+      </div>
     </div>
   );
 }
