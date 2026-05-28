@@ -1,25 +1,35 @@
 import { useEffect, useRef, useState } from "react";
 
-import { fetchTrack, type TrackResponse } from "@/lib/api";
-import { buildTrackLayers } from "@/lib/layers";
+import {
+  fetchIntersections,
+  fetchTrack,
+  type Intersection,
+  type TrackResponse,
+} from "@/lib/api";
+import {
+  buildIntersectionLayer,
+  buildTrackLayers,
+  colorForTrack,
+} from "@/lib/layers";
 import { createMap, type MapHandle } from "@/lib/map";
 
 interface MapCanvasProps {
-  readonly trackId?: number;
-  /** Epoch ms — when set, the scatter layer is filtered to this playhead. */
+  readonly trackIds: ReadonlyArray<number>;
+  /** Epoch ms — when set, scatter layers are filtered to this playhead. */
   readonly playheadMs?: number;
-  /** Called once with [startMs, endMs] when a track loads. */
-  readonly onTrackBounds?: (startMs: number, endMs: number) => void;
+  /** Called with [globalStartMs, globalEndMs] when tracks load. */
+  readonly onTracksBounds?: (startMs: number, endMs: number) => void;
 }
 
 export default function MapCanvas({
-  trackId,
+  trackIds,
   playheadMs,
-  onTrackBounds,
+  onTracksBounds,
 }: MapCanvasProps) {
   const containerRef = useRef<HTMLDivElement | null>(null);
   const handleRef = useRef<MapHandle | null>(null);
-  const trackRef = useRef<TrackResponse | null>(null);
+  const tracksRef = useRef<Map<number, TrackResponse>>(new Map());
+  const intersectionsRef = useRef<ReadonlyArray<Intersection>>([]);
   const [error, setError] = useState<string | null>(null);
 
   // Mount the map once.
@@ -33,63 +43,99 @@ export default function MapCanvas({
     };
   }, []);
 
-  // Load the track when the id changes.
-  useEffect(() => {
-    if (trackId === undefined) {
-      trackRef.current = null;
-      handleRef.current?.setLayers([]);
-      return;
+  const repaint = () => {
+    const handle = handleRef.current;
+    if (!handle) return;
+
+    const layers = [];
+    for (const [id, track] of tracksRef.current) {
+      layers.push(
+        ...buildTrackLayers(track, {
+          trackId: id,
+          color: colorForTrack(id),
+          playheadMs,
+        }),
+      );
     }
+    const overlay = buildIntersectionLayer(intersectionsRef.current);
+    if (overlay) layers.push(overlay);
+
+    handle.setLayers(layers);
+  };
+
+  // Load tracks whenever the visible-set changes.
+  useEffect(() => {
     let cancelled = false;
-    fetchTrack(trackId)
-      .then((t) => {
+
+    const ids = [...trackIds];
+    // Drop tracks no longer visible.
+    for (const id of [...tracksRef.current.keys()]) {
+      if (!ids.includes(id)) tracksRef.current.delete(id);
+    }
+
+    Promise.all(ids.map((id) => fetchTrack(id)))
+      .then(async (loaded) => {
         if (cancelled) return;
-        trackRef.current = t;
+        loaded.forEach((t) => tracksRef.current.set(t.track.id, t));
         setError(null);
 
-        if (t.features.length > 0 && onTrackBounds) {
-          const tss = t.features.map((f) =>
-            Date.parse(f.properties.timestamp),
+        // Recompute global bounds.
+        if (loaded.length > 0 && onTracksBounds) {
+          const allTs = loaded.flatMap((t) =>
+            t.features.map((f) => Date.parse(f.properties.timestamp)),
           );
-          onTrackBounds(Math.min(...tss), Math.max(...tss));
+          if (allTs.length > 0) {
+            onTracksBounds(Math.min(...allTs), Math.max(...allTs));
+          }
         }
 
-        // Initial render.
-        handleRef.current?.setLayers(
-          buildTrackLayers(t, { trackId: t.track.id, playheadMs }),
-        );
+        // Refresh intersections if multiple tracks loaded.
+        if (ids.length >= 2) {
+          try {
+            const res = await fetchIntersections(ids);
+            if (!cancelled) intersectionsRef.current = res.intersections;
+          } catch {
+            // Non-fatal.
+          }
+        } else {
+          intersectionsRef.current = [];
+        }
 
-        // Fly to fit bounds.
-        if (t.features.length > 0 && handleRef.current) {
-          const lons = t.features.map((f) => f.geometry.coordinates[0]);
-          const lats = t.features.map((f) => f.geometry.coordinates[1]);
-          handleRef.current.map.fitBounds(
-            [
-              [Math.min(...lons), Math.min(...lats)],
-              [Math.max(...lons), Math.max(...lats)],
-            ],
-            { padding: 80, duration: 800 },
+        repaint();
+
+        // Fit camera to the union of visible tracks.
+        if (handleRef.current && loaded.length > 0) {
+          const lons = loaded.flatMap((t) =>
+            t.features.map((f) => f.geometry.coordinates[0]),
           );
+          const lats = loaded.flatMap((t) =>
+            t.features.map((f) => f.geometry.coordinates[1]),
+          );
+          if (lons.length > 0 && lats.length > 0) {
+            handleRef.current.map.fitBounds(
+              [
+                [Math.min(...lons), Math.min(...lats)],
+                [Math.max(...lons), Math.max(...lats)],
+              ],
+              { padding: 80, duration: 600 },
+            );
+          }
         }
       })
       .catch((e: unknown) => {
         if (!cancelled) setError(e instanceof Error ? e.message : String(e));
       });
+
     return () => {
       cancelled = true;
     };
-    // playheadMs intentionally excluded: it's pushed via the next effect.
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [trackId, onTrackBounds]);
+  }, [trackIds.join(","), onTracksBounds]);
 
-  // Push playhead updates without rebuilding the whole effect chain.
+  // Push playhead changes without re-fetching.
   useEffect(() => {
-    const handle = handleRef.current;
-    const track = trackRef.current;
-    if (!handle || !track) return;
-    handle.setLayers(
-      buildTrackLayers(track, { trackId: track.track.id, playheadMs }),
-    );
+    repaint();
+    // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [playheadMs]);
 
   return (
@@ -100,7 +146,7 @@ export default function MapCanvas({
         data-testid="plotline-map"
       />
       {error && (
-        <div className="absolute top-3 left-3 rounded-sm border border-tactical-red bg-black/80 px-3 py-2 font-mono text-xs text-tactical-red">
+        <div className="absolute top-3 right-3 rounded-sm border border-tactical-red bg-black/80 px-3 py-2 font-mono text-xs text-tactical-red">
           {error}
         </div>
       )}
